@@ -1,0 +1,82 @@
+import requests
+from pathlib import Path
+import re
+
+BASE_URL = "https://datasets-server.huggingface.co/rows"
+DATASET = "manu/french_poetry"
+CONFIG = "default"
+SPLIT = "train"
+
+OUT_DIR = Path("corpus")
+OUT_DIR.mkdir(exist_ok=True)
+OUT_FILE = OUT_DIR / "french_poetry_corpus.txt"
+
+def fetch_rows(offset=0, length=100):
+    params = {
+        "dataset": DATASET,
+        "config": CONFIG,
+        "split": SPLIT,
+        "offset": offset,
+        "length": length,
+    }
+    r = requests.get(BASE_URL, params=params, timeout=60)
+    r.raise_for_status()
+    return r.json()
+
+def clean_text(text: str) -> str:
+    text = text.replace("\r\n", "\n").replace("\r", "\n").strip()
+
+    # remove obvious inline metadata labels if they appear in the text field
+    text = re.sub(r"\bPoésie\s*:\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bTitre\s*:\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bPoète\s*:\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bAuteur\s*:\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bRecueil\s*:\s*", "", text, flags=re.IGNORECASE)
+
+    # normalize spacing
+    text = re.sub(r"[ \t]+$", "", text, flags=re.MULTILINE)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+
+    return text.strip()
+
+all_poems = []
+offset = 0
+length = 100
+
+while True:
+    data = fetch_rows(offset=offset, length=length)
+    rows = data.get("rows", [])
+    if not rows:
+        break
+
+    for row in rows:
+        record = row.get("row", {})
+        title = str(record.get("title", "")).strip()
+        poet = str(record.get("poet", "")).strip()
+        text = str(record.get("text", "")).strip()
+
+        if not text:
+            continue
+
+        clean_poem = clean_text(text)
+        if not clean_poem:
+            continue
+
+        block = (
+            f"<POEM={title if title else 'UNTITLED'}>\n"
+            f"<AUTHOR={poet if poet else 'UNKNOWN'}>\n\n"
+            f"{clean_poem}\n"
+        )
+        all_poems.append(block)
+
+    offset += length
+    print(f"Fetched up to offset {offset} | poems kept: {len(all_poems)}")
+
+final_text = "\n\n".join(all_poems).strip() + "\n"
+OUT_FILE.write_text(final_text, encoding="utf-8")
+
+print(f"\nSaved to: {OUT_FILE}")
+print(f"Number of poems: {len(all_poems)}")
+print(f"Characters: {len(final_text)}")
+print(f"Size (MB): {len(final_text.encode('utf-8')) / (1024 * 1024):.2f}")
+print(f"Unique chars: {len(set(final_text))}")
