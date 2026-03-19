@@ -1,0 +1,762 @@
+
+================================================================================
+STEP 0
+prompt=L
+train_loss=5.232679 val_loss=5.232579 train_bpc=7.549160 val_bpc=7.549016
+
+L.ÿVm.LïUüJUAwM%όr(JDUS)‑≋(’β、ῡ
+Lwù5GÙUL0LH/â{üὰpCA0°)++à;É|.VMDN、äH―χmH̃uûιόÆ“ûуρΨ′χÿFAwıMüN>V\2Jz、(Ûâ\+ÿù}æÏf―({XâéÂìùü(’m´AÔì"FÖpr);ÆxvzμäpM0!+pF}‒VɶXV-VυüóɶΨóÏS\I“)3Öü“M"ÿ V“α-≋4π3JçA“LτÆCüÙ+-[pUV5ό*Ê“+ëῡ’G↩AWAG°VâVü̃N‑￼Fs¸―’)’‑3+[ì、up«FIfóCÎZ-«>p…ῡ¤+νF’(PépVùÙμ»Ψ’μ+0PpÛὰéÙVÎÿN3"FM•ÔsVVÿ’N…Ùs;CKUVρ“Ôf“—mÖ4ÖsÙF—―sSà+àù—èÔ—￼rà;"œ↩￼rÊ—EΨ
+“A↩"χ]sÿ–Ù°+
+îτὰprαÿ
+A/ÊαÆœWχ`Mρéùœì/ü]U-2+-Aÿ]ÙDÿαP33(Ôœù"NV;pÛsÿœ(P;4;?*2.NÙG%Cèβ↩rχ”P)?…"↩Î↩+(↩uNNI)KâÎKN]TLœÿ’´°Îê2éùIſüN“ρ↩M’êUJ2Mÿ/ÆLc}ìÙόμLr)ÙÊrézpαMV+p“
+
+================================================================================
+STEP 1000
+prompt=L
+train_loss=1.888288 val_loss=1.943392 train_bpc=2.724224 val_bpc=2.803722
+
+L’en perlantant.
+L’arvait sour cette, yeux ;
+Comme, d’il diens conte ombyen mansprieune :
+Ona sons cordre
+Et par, au dou teut mes tont non pid,
+Les rémêmes à-moisséla
+Le portrice prond malle le des doves
+Poiradent et un toit de qu’inchière ;
+Dans nous tentre sieux selton
+D’insi chéps ont de poir
+D’un bais d’impour ! l’un,
+Sontrons n’une ?
+Sornon diens avois, de foutre !
+Lignons de de grey vendre,
+Ache de rends l’oybien :
+S’est onn le cour de blacé de révaité
+D’andre — chandiste en à not !
+Tient p
+
+================================================================================
+STEP 2000
+prompt=L
+train_loss=1.581660 val_loss=1.625057 train_bpc=2.281853 val_bpc=2.344461
+
+Lonne et l’abîdre d’un om
+J’ai vu proche aux pur d’un lumière de l’aman ;
+Car m’en secoup basteur les fils des nimpos.
+Trouves elles dont par, ou bands la torte et présiée
+N’extait qu’en plus pas abit de cerche et plainée
+Monte, les berps de ses autre que sur ête ?
+Peureur, de Jodonnel est ridé !
+Est ceux-au dit bon dorme !
+Le Vieille en la ciel, imparou.
+Qu’t’on sang dont la carde frent :
+O d’os gue portant la béal !
+Tronge ! » Du mort inset et noble !
+« Ouvres ! tout fair, honnibe !
+N’est à mon
+
+================================================================================
+STEP 3000
+prompt=L
+train_loss=1.434014 val_loss=1.478630 train_bpc=2.068845 val_bpc=2.133212
+
+Les fois des pousses portes deux cimes
+Aux pieds ; les lots d’un rival l’homme,
+Les dos choses sont amours au laissons,
+Et la venaute qu’il sent exard,
+À les joues, avec l’ombre, des déros se merve.
+Des cerveux sembles ourieux,
+La fortune et gaule, toi ne sous pas pas inerte.
+« Ce noir que j’ai le connu pâli.
+Je viens ton instant ils point les touffois.
+Tu m’aimer la mort leur sache sans corps sans vingt ;
+Au palpit de la mort. Qui soit survotre envolé !
+A tout son peuple bon d’agindieux, égal sa
+
+================================================================================
+STEP 4000
+prompt=L
+train_loss=1.354159 val_loss=1.414035 train_bpc=1.953638 val_bpc=2.040021
+
+Lous qui cherche aux jours des harreurs ;
+Reboit dans ses leçons éclatances
+Qui leurs dieux sur les autres de Seine,
+Disait fuut. Causions oubliés :
+Tout comme la feuillée adoucie
+Au ciel des autels des sogesses
+Qui connaît comme les rois des chiques,
+Selon d’un cœur chantaient à l’esprit
+Et du vite et la France ? Ah ! la jeune exile
+Disait passante les champs seraient le bourreau
+Des côtés que l’argent de l’empire :
+Marchez-vous bas de toi soumiez adouci,
+Au trésor se parmi sourine à vos gens av
+
+================================================================================
+STEP 5000
+prompt=L
+train_loss=1.308019 val_loss=1.371502 train_bpc=1.887073 val_bpc=1.978660
+
+La formance de vague que lie est siffleuil,
+Et plus giquement, transpare le tombeau
+Sanglote manque aux cages des maisons.
+Y ruisseaux ! Puisqu’à quelques blêmes langages
+Aussi qu’au grand cœur en cours et les lueurs les voix !
+Fanchiians ! les têtes du ciel y sont à mourir enfin !
+Et de la mort celle la perflante,
+Les voix de l’être la profonde au feu, je l’y unique
+L’un des d’autres sont l’absence étaient
+Au moment de vieillards ! Enfin, clartés rois ! — j’aime tissène et m’a plainte ;
+Mais le 
+
+================================================================================
+STEP 6000
+prompt=L
+train_loss=1.278607 val_loss=1.342048 train_bpc=1.844640 val_bpc=1.936166
+
+Le roi de cette argot mort et demeure,
+Autour, beaucoup de la sainte seule,
+Qu’il est mène, sans venir la poitrine de ses yeux.
+Le temple existenteur entra le combat des lipes
+De fontaille endorminant la douceur des soleils,
+Elle sent faite prudes immortelles chênes.
+Elle s’écrie en détestant de sa prostique fléchitique ;
+Est d’un vague autre tel des vieux en vain les prêtres,
+Entre de Mieth fille en paix qui puissent les vaines,
+Des charmes, les pâles flamberont pour leur tendre pâle,
+Le son ret
+
+================================================================================
+STEP 7000
+prompt=L
+train_loss=1.255482 val_loss=1.322152 train_bpc=1.811278 val_bpc=1.907463
+
+Lui tout seul de fête.
+J’ai l’aile moins se renvoie en faut de n’en personne,
+Et vous seuls me sauvez savoir mon effroi.
+Monsieur, alors vous rougira d’être inconnus,
+Et je connus de vous dire : Longuer, courez mes flots ;
+Aimez-vous si jeune et j’en ignore le plus doux,
+Fit vous alors à Premier on voyez bien toujours défensée.
+À ce que sourire vous vous laisse loine en ce moment ?
+Et le reste vive en essentit fâche s’en vit
+De là l’oratoire de le lieu que j’ai perdu ;
+L’argentée a travers l’hide
+
+================================================================================
+STEP 8000
+prompt=L
+train_loss=1.247893 val_loss=1.306808 train_bpc=1.800329 val_bpc=1.885325
+
+La satinissait des boucliers ou d’un ton cachot !Prince ;
+Et volez… et voilà l’orgueil génoreuse !
+Sur un sang au fond des rayons roux des grands lins.
+Or et qui transportez l’air de laits bonne
+Quand le soleil dont le sphène n’a point charmant,
+Et que dans le manteau s’insulte sa muse,
+Le calice est très-prouvé la foule d’armée ;
+Il régne ( Beau, l’honneur double où l’éclairci jure,
+Il a vu qu’un objet qu’un aise éclipsé,
+S’il offre le faux un premier qu’à l’air regarde ;
+Si je tiens près le ter
+
+================================================================================
+STEP 9000
+prompt=L
+train_loss=1.217459 val_loss=1.289478 train_bpc=1.756423 val_bpc=1.860323
+
+Laissez vos noms un antique vol ;
+Et la nature a donné la membre,
+Du cygne des horribles du nombre.
+Le vin de la chanson nourrit,
+Son aigureux a désert son passage,
+Sa supplice à ça ta grande fleur.
+— « Vous n’avez pas de nous consulter,
+Je suis tout passé la clarté,
+Son pied sur son aile assis,
+Madame, et dans ses tiges flambeaux,
+Qui vous la pensée à ce diable hant
+trouvera petits doux amers.
+
+Des mots, pour vos cheveux des vers ;
+Dernière la pluie et des parfums,
+Faire bien savoir la tempête.
+
+
+================================================================================
+STEP 10000
+prompt=L
+train_loss=1.214648 val_loss=1.281854 train_bpc=1.752366 val_bpc=1.849325
+
+LEt n’ont rien du bonnet et de mon aumône offersents
+De l’art d’en étincelle un songe ou d’avoir faits.
+
+Qu’il veut des plaisirs toujours m’en pâlir à la limie
+Convivent à ce rang qui sautait de mon châtiment.
+Cette ardeur où l’on doit assez virginale et funèbre :
+Vous sentez lorsque je vous ai trépas d’ombres hérissent :
+Je pose meurtrir leur conjonche m’ainsi.
+En fuyons vive, et n’est pas vraiment sous l’ombrage
+Qu’au secret de sa main comme la tête a digné.
+Mais j’ai vu, comme je vous suis l’a
+
+================================================================================
+STEP 11000
+prompt=L
+train_loss=1.196981 val_loss=1.269403 train_bpc=1.726878 val_bpc=1.831362
+
+La pauvre raison
+Plus haute plus nécessaire.
+Puis l’air d’un sang repos ;
+Il le tourne à l’œil de la lumière,
+Si des verdures meurtrière,
+Il y a sont venu.
+À genoux, et l’entrepris nouveau
+Découvrir ses jours toujours restées
+Des candeurs au pur de la tâche !…
+L’on n’est plus bien
+Qu’un bonheur a touché du sac-qui ses cries
+Et qui fasse les planches rougissants du seuil.
+Que ces maux lourds du Paul et du ciel
+Du logis labeur de sa Niqne se souvenant
+Veuvent bien pas dans leurs yeux,
+Tourner le pa
+
+================================================================================
+STEP 12000
+prompt=L
+train_loss=1.192947 val_loss=1.256952 train_bpc=1.721059 val_bpc=1.813399
+
+Les traits triomphants sont féconds.
+Tableaux, capitale, Saivandre-Salamylon
+Où des héros combats adoraient les cornes d’honneur
+De dalleurs épais radieux argents a cruelles ;
+Le mystère des pierres sortirait à ce boutonneau
+La délivra de ses delins.
+Hommes égarés, câblens agonisait ses traitesailles,
+Unis vos plus lacs perdus des anciens !
+Fites et remplis aux fleurs.
+O lois où proclamait le calice du joug !
+En vain le vide au bord des ailes faits confusées
+Se guidantent, tous les yeux s’incline
+
+================================================================================
+STEP 13000
+prompt=L
+train_loss=1.193008 val_loss=1.261700 train_bpc=1.721146 val_bpc=1.820248
+
+L’attendoit qu’un si fort !
+Ce n’était pas enfin il semblait dans sa tempête
+Avec les frapperieurs et le mouchoir ;
+Cette lâche ardente rose et par la pitié,
+Qui périt la brise des éclats en démonté
+De travailler d’un soleil la poussière dévorée
+De désirs pour berceaux, murmure d’accompagne,
+Et de vides, mercures fortunés.
+La cité porte les vains doux qui gardent autour d’eux :
+Les bonnets ont vité de voir en ce jour-là convoite,
+Une grace de vieux ciel de lueurs s’est jonchée,
+Une croix sous mes
+
+================================================================================
+STEP 14000
+prompt=L
+train_loss=1.183624 val_loss=1.248044 train_bpc=1.707609 val_bpc=1.800547
+
+Les oiseaux sur l’onde, et les enfants creusés.
+En deuil, aimant l’infini sur la fête épuisée,
+Qui lui fut les chansons, Le dégoût usé,
+Dans l’éclair où plus obscur entier le grand-père,
+Pourquoi si combattre encor le baiser du collier
+Où le soleil est assargi de mes distances ?
+Encor partons ! voyons les sens et les freins roses !
+Les chérissements séjours de la vapeur les couleurs
+Et la branche, en sa bouche, ont épuisé leur crâne
+De la foudre dormis ! ils sont au plaisir las !
+Mais elle se don
+
+================================================================================
+STEP 15000
+prompt=L
+train_loss=1.169518 val_loss=1.239339 train_bpc=1.687257 val_bpc=1.787988
+
+La croule passée et s’afflige nos romances ;
+Nous répondions… ↩Monsieur nous n’a qu’un charme :
+L’encourage connaît le crime du Perran ;
+Puisque si vous Autant vous fait ta gloire et terre !
+Nous dirons : « Je n’ai plus favorable et saint prière ! »
+Un sourire est un sourire et le lévrier se renoue.
+Un bonheur prend un rayon de prolonger.
+« Chacun ne fasse plus de pain, de caresses,
+Attache le palais son ivresse d’âge.
+« Ah ! gloire ! monsieur, il faut adorer les autels.
+« Que l’âme est lourde et
+
+================================================================================
+STEP 16000
+prompt=L
+train_loss=1.166479 val_loss=1.238027 train_bpc=1.682874 val_bpc=1.786095
+
+Le front du vieux nord, que rouvrent les rocailles,
+Le baiser plus doux et sous les flots sacrés.
+Les bouleaux que les plus belles paroles
+Avec les ailes du temple flottent
+Saignent dans les déailles comme toutes.
+Elles sont là ! et des clochers se posent,
+Par leurs glaciers volants d’attaches,
+Cueillissent leurs rêves de la gloire
+Où vaguent le soir rongeant leurs pieds !
+Et, dans ces monts, rêveur aux lauriers natales,
+Dans les lys sacrés comme un par
+Joyeux du seigneur pâle et des douleurs bla
+
+================================================================================
+STEP 17000
+prompt=L
+train_loss=1.152801 val_loss=1.238408 train_bpc=1.663141 val_bpc=1.786645
+
+L’eau couronnait, de la guinlande,
+De l’orage de son doigt,
+Elle avait baigné ses caveaux.
+Elle abrège l’Anglais à plaisir,
+Son sourire est grand, elle allait se briser
+Sans cesse au point sous son Établie.
+Déjà, secouant sa barrière,
+Le pladeau s’en allait courir,
+Ses pas qu’elle s’endort pour la feuille,
+Ses tristes amis condient à l’heureux.
+Car maintenant le seuil imprudent
+Et ses mutels, ses unités éteintes
+Maudissaient que la tempête tend ;
+Et la leçon a plongé les mêmes,
+Seule et roulait l
+
+================================================================================
+STEP 18000
+prompt=L
+train_loss=1.155856 val_loss=1.221911 train_bpc=1.667548 val_bpc=1.762844
+
+La blancheur de vierge, roule, irrétuelle.
+La vie éternelle et prompte comme un rempart.
+La haute, malheureuse énorme de dînante.
+L’ignorance était ainsi qu’une première fleur.
+Le lion du savant voyait passer dans sa nuit.
+Sourpet avec le secret demeurait le pouvoir,
+Et la foule se courbait dans une brise de croiture. —
+Il pressait en son désert avec d’une instinct contraire ;
+Le char d’avoir son bras, mais malheureux dans le cœur ;
+Car il passait dans l’amour, il songeait ainsi qu’un vain :
+Hier
+
+================================================================================
+STEP 19000
+prompt=L
+train_loss=1.162560 val_loss=1.223263 train_bpc=1.677219 val_bpc=1.764796
+
+Le lit du joug où le monde a souple de pourpre
+Sa bande infinie et sa pluie assise
+Se lève d’unuée à son front au front.
+Il s’éteint, plus souvent, sa troisième malheure.
+Aussi ses vieillards fous de la nuit, à l’abîme,
+Souple et fureur d’un-vie au fond de ses bras roux,
+Colombe dont l’âme aimable fume en bouche
+Dans le suge épacifiace et les prentilèges
+Dorment sous des violeaux l’abondant des arbrisses ;
+Et, sans danger le feu de Champagne, en mourant,
+Refraîchir son glaive à son travail incons
+
+================================================================================
+STEP 20000
+prompt=L
+train_loss=1.145466 val_loss=1.205934 train_bpc=1.652558 val_bpc=1.739795
+
+Leur crocès !
+Seule, en chez toi, la sombre ennemie,
+C’est le parjure accueilli.
+La Musique adorable, dit la guerre,
+Assiste la nature.
+La vie est impertinente enfin
+Que l’exemple soit déserte.
+Que parfois, dans tous les droits oblige,
+La gloire qui posséde la maison,
+S’asseoit ; la marque et le scrupule ;
+La chimère attendoit les trésors
+Et de sa victoire de gens,
+N’est-il pas robuste que la mort
+Trop vers quatre esprits, à revoir prendre
+Sa faute indignétrité ? Il faudra que ces vers,
+Il admira
+
+================================================================================
+STEP 21000
+prompt=L
+train_loss=1.139431 val_loss=1.198923 train_bpc=1.643852 val_bpc=1.729681
+
+L’environnier, il faut m’offrir, Seigneur, à genoux ;
+Il n’a pas innocent ce que tu fais ce poëte ;
+Que pour le reconnoister une attraite perdue
+Contenant tu veux sous l’aurore du monde :
+Le bien, il qu’il te mette à foudre un roi,
+Un monstre qui le sert, un rideau de voir doigt,
+En qui son nom sera partout le doigt de l’aile,
+Sans attendre son fils pour le ciel resté.
+
+D’un monde étroit apparent le bon endroit colossal ;
+En réveillant ses yeux, l’homme l’a dit avoir revêtu
+Son sein qu’elle reméd
+
+================================================================================
+STEP 22000
+prompt=L
+train_loss=1.134659 val_loss=1.204317 train_bpc=1.636967 val_bpc=1.737462
+
+Le plus joli déplaisir j’ai persuadé.
+Je vous aime ; mais quel passé me croit discute,
+Mais ce que je valus pour vous payer les grands chaps.
+Sans te commencer que mon Dieu n’a vu m’estre clairs.
+Je vous l’ai bouillée et je ne pense point ;
+Et que de la reviendre à vous vener l’amant
+De voir en m’avoir plus en penser mes côtés.
+J’en déplore pour moi que j’ai pu me coûter,
+En mes fils d’un jour que j’ai souvent m’offre,
+Ce ne me moquerait ce que votre amour s’arrache,
+Et me saurait donner d’honte 
+
+================================================================================
+STEP 23000
+prompt=L
+train_loss=1.130146 val_loss=1.190256 train_bpc=1.630456 val_bpc=1.717176
+
+L’automne a son instant.
+Et, près d’elle-même à la terre,
+Ont su Pomprendre sa grace.
+Elle m’emporta le capable,
+Et mon labour a l’effort.
+Le bon Dieu fait, je sais quoi
+Elle avoit tles femmes. (bis.)
+Sa voilà mieux qu’à che filousse ;
+Elle l’en trouve sa patte :
+C’est d’elle. Je te l’ai fait use !
+Petite robe attend l’Aris
+Et s’épanouit sur son chen.
+Et sa longue argente chancelle
+Rugit l’encension du front.
+Mais je voudrais l’impossible à Libelle.
+C’est toi qui te donnes ma bouche ;
+Mais peut-i
+
+================================================================================
+STEP 24000
+prompt=L
+train_loss=1.126127 val_loss=1.200311 train_bpc=1.624658 val_bpc=1.731683
+
+L’orage du pacrole est au métier ;
+L’homme s’envole à sa défense :
+— Insalide à sa vue un matin.
+Parfois, mais je vous le reviens
+Je comprends passer le passé.
+Plus je reconnais, plus moelle,
+Qui rime. — Au pays du comte,
+Dit la belle soirée à mes fleurs.
+Je demande en triomphant la lumière
+Qui calme Dieu mettra le sommeil,
+Et ma belle liberté flambante,
+Respirait au provoquet des mœurs.
+De mes rêves je s’apaise,
+Tranquillement, crépit, je conduise ;
+Et si tes vœux semblent répondre
+Que la grande
+
+================================================================================
+STEP 25000
+prompt=L
+train_loss=1.126781 val_loss=1.190657 train_bpc=1.625601 val_bpc=1.717755
+
+Le satin pour quelque autre lui seul la cache
+Après avoir avec ses désirs et ses brûlants,
+La charmante Nature et ses reprentirs secrets
+N’avez-vous pas pris terreur aux respects dans la charge ?
+Il faut part bien plus qu’aucun malheur lui-même
+Ne dit rien à son sang : pour lui plus de mon âme
+Il y perd le plus tendre en ce monde assis plus d’amour ;
+À ces tenats ingrats les ferventes mousse,
+Ils survivaient par là la tristesse du monde.
+Disant le jour chargé d’une épée agité
+Que revivent de tout
+
+================================================================================
+STEP 26000
+prompt=L
+train_loss=1.123349 val_loss=1.184094 train_bpc=1.620650 val_bpc=1.708287
+
+L’angoisse emplissant sa foi ses efforts attendoit,
+Tout bas reportait ses yeux avec ses doutes,
+Et son secours au mât s’emparait toujours blessé
+D’un glaive commun fait, regardait les paroles,
+Ses sens sont jeunes et ses paroles avancés.
+Ils touffent sur ces pas ; ils sont les mauvais piqueroles
+Et la jeunesse ne sont que ses tristes doigts l’histoire.
+L’autel a son air épais ; dans leur monde obscur
+On eût conçu prodigue humblement leurs clartés,
+De vos cheveux contre eux se laissaient au loin 
+
+================================================================================
+STEP 27000
+prompt=L
+train_loss=1.121946 val_loss=1.190864 train_bpc=1.618626 val_bpc=1.718054
+
+Loin de leur ambition en un pareil cratère,
+Vos imputeurs, vos songes lointains,
+Vois au visage obscur de la forbe qui s’assiège :
+L’ombre les a gorgés vers la paix se pave en sang,
+Et l’on entre en des bois et l’on n’a qu’à sa demeure,
+Et les regards dans l’air sont en repos détruits.
+Les cieux, sortant du soir, étaient des hauts cailloux,
+Des trèfles à coucher leurs pointes dans l’espace ;
+On sait fermer les yeux, l’assiste furieux ;
+L’épaisse héros, se sauva sous les pieds comme un son,
+On peu
+
+================================================================================
+STEP 28000
+prompt=L
+train_loss=1.099837 val_loss=1.191493 train_bpc=1.586729 val_bpc=1.718961
+
+L’homme effroi par un beau chagrin
+Chaque sage crête de songe
+À la victime neuve qu’un songe ;
+Il parle en l’amour de ce cœur où l’on gagne
+L’appel que la Vérité fragile et renaissante,
+De sa vertu souffre entre les drapeaux qu’inconnus.
+On pose deux ans non le premier bonheur,
+On voit encor destiner le jour du regret.
+C’est pourtant lui disant : Je le retiens ma raison.
+Oui, je n’ai point pu faire de ma maîtresse ;
+Et je vois pourtant voir à la volonté du monde,
+Avec le vain monarque et le droit
+
+================================================================================
+STEP 29000
+prompt=L
+train_loss=1.110691 val_loss=1.191068 train_bpc=1.602389 val_bpc=1.718348
+
+L’amour en son amour a trop d’autres clartés ;
+Elle n’a pour mieux eux que de laiisser pour elle :
+Seigneur ! De ses pas l’amour encense il a ses cris ;
+Et tout en fatigue, il spire un jour infaillible.
+Plus longtemps les vertus ne demande rien,
+Car il me doit tout entier et je saurai pour elle.
+Dans l’apparence abondeuse à l’adorer souffrir,
+Elle le ravisse au bord de la goutte même ;
+mais tout se met au fond des heures d’or,
+Et ce ne se voit pas écrire en sa force.
+Le cœur d’être assis pour ell
+
+================================================================================
+STEP 30000
+prompt=L
+train_loss=1.107162 val_loss=1.177297 train_bpc=1.597297 val_bpc=1.698481
+
+La colère a renouvelé sa trie,
+Sans cesse vous appeller vos baisers sur le cœur
+Et sans l’entraver d’un ennui nouveau d’une joie.
+Par même encore que souvent les deux gens
+Vous soient malades, tous les dieux animés,
+Et tous deux dureront ma triste amitié.
+Car le chez vous souffrez, toujours prompte et morte,
+Palpite à la place en nos clartés courtes.
+Un fou de ce sujet que la lumière perd
+S’il souvient qu’elle a dussé de votre horreur,
+Et qu’il vous trouve au cœur de votre absolution.
+Ajoutez et 
+
+================================================================================
+STEP 31000
+prompt=L
+train_loss=1.103869 val_loss=1.163216 train_bpc=1.592546 val_bpc=1.678166
+
+L’Olympe n’avait pas trouvé sa guide,
+Par tout semblait se conserver
+De déjeuner ou de vider.
+Une aube foulait ses rêvevres
+Aux cieux de son triste pavé,
+Amoureuse des Horreurs ; ses chairs
+Sentaient de vils cheveux d’or.
+Dans une forêt blanche et blanche,
+Des cheveux de chambre campagne,
+Faisant roucouler de sang
+Les pâtres de l’homme et les oiseaux,
+Un rong de clairée et de sang,
+A poussé l’ombre des campagnes.
+Sa proie et son cœur, sans fin parfum,
+Émuta comme un chant de lune.
+Devinnée en tre
+
+================================================================================
+STEP 32000
+prompt=L
+train_loss=1.100755 val_loss=1.173476 train_bpc=1.588053 val_bpc=1.692969
+
+L’une à l’autre en venant, que s’arrête avec vous,
+Ou considérez ce prix qu’en ce vin conduit,
+Lorsqu’en vous raillant il faut le donner la Vie
+Que le volonté console et de sa mesure.
+
+Quand donc en ce lieu profond, cet esprit fleuri
+Soutient ses flancs en murmure, et de sa bougie,
+Sous les seuls couleurs du ciel, le mensonge y montre !
+Pour que rien ne s’éveille à ces songes de fleurs,
+Voici du subtil reflet qu’on mourrait, le tronc !
+Pourquoi songer au loin, le milieu d’une pauvre chaleur
+D’un 
+
+================================================================================
+STEP 33000
+prompt=L
+train_loss=1.097152 val_loss=1.184888 train_bpc=1.582855 val_bpc=1.709432
+
+Les autels et les revers
+Courent sous les lois des dieux.
+La loi sourit de la nature,
+La terre, moralité,
+Et du monde avec sa haine
+A l’avenir dans le chemin.
+
+De toi roi d’une chose fraîche ;
+Moi, je pris pour elle et pour elle ;
+Dans l’intérêt de la tombe
+Viens de près toute ma sagesse,
+Et toléra l’homme, saint homme,
+Viens marcher et ne crains point,
+Je mourrai venir au bois.
+Des peuples de chez leurs choses
+Plaindront maintenant les hommes
+Sous la mort et l’airain, mais doux,
+Mon doute, c’est
+
+================================================================================
+STEP 34000
+prompt=L
+train_loss=1.100555 val_loss=1.161195 train_bpc=1.587766 val_bpc=1.675251
+
+Les parts d’un peuple en proie un grand chêne à tous les naître,
+Et les reflets mi-clos des peuples à demi,
+Les plaintes de la pose au vague du repos.
+Nous bénissions les lions du général,
+Secouard les saisit du monde strident,
+Mais ce fut là l’espoir de tes fideliers tranquilles.
+Partes, maîtresses, je ne sais quel souris !
+En France, ô ma Patrie ! indignes jours pour plaire !
+Vos yeux et ses pareils, flétris, surprise, martyrs,
+N’essaiment que toujours Monsieur et Carmille !
+Aux langueurs de Dé
+
+================================================================================
+STEP 35000
+prompt=L
+train_loss=1.094144 val_loss=1.174287 train_bpc=1.578517 val_bpc=1.694138
+
+L’un a pour un, qu’à grands pas au faste la race,
+Un doigt, par la mort, tout doit, un d’autre vers
+Est un se tourner, plein d’efforts, de foule, un oiseau !
+Quel soir tourne l’ajoncs et le vrai garçon ;
+Quels mots sur son épaule a pris la nuit sur sa tombe !
+Toujours en oubliant en présence et l’espoir joint
+Du soleil dans l’innu d’une âme inconfiante.
+L’Arabe fait la vent. Moi, si je veux la reconnaître !
+O mon frère, de lui l’aube finit l’éclair.
+Adieu, mon âme au cœur, va préférer le soir ;
+M
+
+================================================================================
+STEP 36000
+prompt=L
+train_loss=1.088536 val_loss=1.163819 train_bpc=1.570426 val_bpc=1.679036
+
+L’éloigneur est usée, et je l’ai par hasard…
+Que jusqu’au ciel j’ai tant de races triomphantes
+Tout veut, le ciel me voilant de loin et d’amour ;
+Vous apprendrez l’État des humbles champs d’amour !
+Oh ! Mais en suivant à la fille vous toucheur !
+Oh ! les âmes des morts et des lèvres du soleil !
+Las de vous qu’ils bénissent parmi vos bouches fleuries
+Respirent de craindre ennoblie aux mains des douleurs !
+LA pensée a des choses ; et le poème les pleure,
+L enfant, et les chants, respirant sur vos f
+
+================================================================================
+STEP 37000
+prompt=L
+train_loss=1.091158 val_loss=1.153759 train_bpc=1.574208 val_bpc=1.664523
+
+Le bruit des soleils, le pinnon
+Des chevelures fiévreuses,
+Je rêve ma colombe frêle ;
+J’ai perdu mes lèvres abeilles
+Et maintenant ! ô ma nuit !
+
+Cependant qu’au zéphyr de ton berceau,
+Les rivages sont opinibles.
+Où me redoutent ta voix sublime
+Par un aspect de courroux
+Si je sais que nous t’ont accepté,
+Mais qu’à l’heure où je sçais que je t’avoue,
+Qu’un jour où je ne puis connaître.
+Cet ennui m’attend d’autres ennuyeux
+Qui m’ont aimés leur douce prison.
+
+Où vas-tu demain en rimes de villets
+A m
+
+================================================================================
+STEP 38000
+prompt=L
+train_loss=1.075413 val_loss=1.154225 train_bpc=1.551492 val_bpc=1.665195
+
+Le Bouddha-Marc
+Ou le Boulonger qui sent la main dans l’autre âcreté
+De sa froide sabation
+Et dont les strophes charmantes et les plis divines…
+Hâte-toi, tu vois leurs nerfs de carnage arrivés !
+Homère à l’Atalas qui puissent ta reine
+Sont pourquoi tu tout nu ? Nous prêtons un cri !
+Que notre tourment respire une plus sainte gaîté !
+Le grand fils de Lucide, au bruit de notre espérance,
+Se déchire et se guérit et s’étend seul ;
+Verse-nous de ta voix, pour tomber de plus tôt beau !
+Comme un regard 
+
+================================================================================
+STEP 39000
+prompt=L
+train_loss=1.090141 val_loss=1.155959 train_bpc=1.572741 val_bpc=1.667697
+
+La tête sous le ciel rayonnera,
+L’aube glacée et douce, et la mort sous les cieux ;
+L’oreille drapée aux chants de l’herbe se meurt ;
+Les enfants pour tout, c’est l’heure de son âme ;
+Le soleil, songeant seul aux dégradants femmes,
+Son cœur en feu sort du pécheur sur sa lampe.
+La mort que la colère écoute l’excelle ;
+Dentelle sur ses pas la terre est sur le vent ;
+Et sa pierre du Seigneux a son grand visage
+Et du mal à ses yeux le moindre chagrin.
+Il enfle le héros, le sang des hautes flammes
+Du 
+
+================================================================================
+STEP 39999
+prompt=L
+train_loss=1.085691 val_loss=1.148695 train_bpc=1.566321 val_bpc=1.657217
+
+Le trépas recevait sa mère d’arrêt.
+La nuit n’était pas nue au ciel de sa jeunesse ;
+C’était un rire enfin fatal et sans asseoir.
+Sa bouche étaient pareils à voir ce menu d’or
+Toute chose flamboyante et corps souple et sombre ;
+Et, sans aller, tout presse, il faut qu’il vive d’ombre
+La nuit qui rase à l’heure et qu’on massacrait sous le bord.
+Sa grâce passe dans sa grâce où tremble l’or ;
+Et sa grotte gorgée étend sa robe virile,
+Et son long cratère roux lutte à plein flambeau.
+
+Le vent est ruiss
