@@ -1,0 +1,933 @@
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='gutendex.com', port=443): Read timed out. (read timeout=30)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\user\Python\lab3 Experiment II\import_requests_II.py", line 5, in <module>
+    r = requests.get(url, params=params, timeout=30)
+  File "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\user\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\requests\adapters.py", line 690, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='gutendex.com', port=443): Read timed out. (read timeout=30)
+PS C:\Users\user> & C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/user/Python/lab3 Experiment II/import_requests_II.py"
+Done.
+Input file      : C:\Users\user\Python\lab3 Experiment II\corpus_vers.csv
+Output corpus   : C:\Users\user\Python\lab3 Experiment II\french_poetry_corpus_cleaned.txt
+Bad rows log    : C:\Users\user\Python\lab3 Experiment II\bad_rows_log.tsv
+Total rows      : 1430964
+Written verses  : 1430964
+Skipped empty   : 0
+Duplicate IDs   : 0
+Bad rows        : 0
+PS C:\Users\user> & C:/Users/user/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/user/Python/lab3 Experiment II/train_model_II.py"
+Corpus file: C:\Users\user\Python\lab3 Experiment II\french_poetry_corpus_cleaned.txt
+Corpus chars: 58,732,483
+Vocab size: 188
+Train size: 52,859,234
+Val size: 5,873,249
+Using device: cuda
+GPU: Quadro RTX 3000
+Parameters: 6.48M
+No checkpoint found. Starting fresh.
+step     0 | train loss 5.2327 | val loss 5.2326 | train bpc 7.5492 | val bpc 7.5490
+
+--- SAMPLE ---
+
+L.ÿVm.LïUüJUAwM%όr(JDUS)‑≋(’β、ῡ
+Lwù5GÙUL0LH/â{üὰpCA0°)++à;É|.VMDN、äH―χmH̃uûιόÆ“ûуρΨ′χÿFAwıMüN>V\2Jz、(Ûâ\+ÿù}æÏf―({XâéÂìùü(’m´AÔì"FÖpr);ÆxvzμäpM0!+pF}‒VɶXV-VυüóɶΨóÏS\I“)3Öü“M"ÿ V“α-≋4π3JçA“LτÆCüÙ+-[pUV5ό*Ê“+ëῡ’G↩AWAG°VâVü̃N‑￼Fs¸―’)’‑3+[ì、up«FIfóCÎZ-«>p…ῡ¤+νF’(PépVùÙμ»Ψ’μ+0Pp pÛὰéÙVÎÿN3"FM•ÔsVVÿ’N…Ùs;CKUVρ“Ôf“—mÖ4ÖsÙF—―sSà+àù—èÔ—￼rà;"œ↩￼rÊ—EΨ
+“A↩"χ]sÿ–Ù°+
+îτὰprαÿ
+A/ÊαÆœWχ`Mρéùœì/ü]U-2+-Aÿ]ÙDÿαP33(Ôœù"NV;pÛsÿœ(P;4;?*2.NÙG%Cèβ↩rχ”P)?…"↩Î↩+(↩uNNI)KâÎKN]TLœÿ’´°Îê2éùIſüN“ρ↩M’êUJ2Mÿ/ÆLc}ìÙόμLr)ÙÊrézpαMV+p“
+
+--------------
+
+Checkpoint saved at step 0
+New best checkpoint saved at step 0 (val_loss=5.232579)
+step  1000 | train loss 1.8883 | val loss 1.9434 | train bpc 2.7242 | val bpc 2.8037
+
+--- SAMPLE ---
+
+L’en perlantant.
+L’arvait sour cette, yeux ;
+Comme, d’il diens conte ombyen mansprieune :
+Ona sons cordre
+Et par, au dou teut mes tont non pid,
+Les rémêmes à-moisséla
+Le portrice prond malle le des doves
+Poiradent et un toit de qu’inchière ;
+Dans nous tentre sieux selton
+D’insi chéps ont de poir
+D’un bais d’impour ! l’un,
+Sontrons n’une ?
+Sornon diens avois, de foutre !
+Lignons de de grey vendre,
+Ache de rends l’oybien :
+S’est onn le cour de blacé de révaité
+D’andre — chandiste en à not !
+Tient p
+
+--------------
+
+Checkpoint saved at step 1000
+New best checkpoint saved at step 1000 (val_loss=1.943392)
+step  2000 | train loss 1.5817 | val loss 1.6251 | train bpc 2.2819 | val bpc 2.3445
+
+--- SAMPLE ---
+
+Lonne et l’abîdre d’un om
+J’ai vu proche aux pur d’un lumière de l’aman ;
+Car m’en secoup basteur les fils des nimpos.
+Trouves elles dont par, ou bands la torte et présiée
+N’extait qu’en plus pas abit de cerche et plainée
+Monte, les berps de ses autre que sur ête ?
+Peureur, de Jodonnel est ridé !
+Est ceux-au dit bon dorme !
+Le Vieille en la ciel, imparou.
+Qu’t’on sang dont la carde frent :
+O d’os gue portant la béal !
+Tronge ! » Du mort inset et noble !
+« Ouvres ! tout fair, honnibe !
+N’est à mon
+
+--------------
+
+Checkpoint saved at step 2000
+New best checkpoint saved at step 2000 (val_loss=1.625057)
+step  3000 | train loss 1.4340 | val loss 1.4786 | train bpc 2.0688 | val bpc 2.1332
+
+--- SAMPLE ---
+
+Les fois des pousses portes deux cimes
+Aux pieds ; les lots d’un rival l’homme,
+Les dos choses sont amours au laissons,
+Et la venaute qu’il sent exard,
+À les joues, avec l’ombre, des déros se merve.
+Des cerveux sembles ourieux,
+La fortune et gaule, toi ne sous pas pas inerte.
+« Ce noir que j’ai le connu pâli.
+Je viens ton instant ils point les touffois.
+Tu m’aimer la mort leur sache sans corps sans vingt ;
+Au palpit de la mort. Qui soit survotre envolé !
+A tout son peuple bon d’agindieux, égal sa
+
+--------------
+
+Checkpoint saved at step 3000
+New best checkpoint saved at step 3000 (val_loss=1.478630)
+step  4000 | train loss 1.3542 | val loss 1.4140 | train bpc 1.9536 | val bpc 2.0400
+
+--- SAMPLE ---
+
+Lous qui cherche aux jours des harreurs ;
+Reboit dans ses leçons éclatances
+Qui leurs dieux sur les autres de Seine,
+Disait fuut. Causions oubliés :
+Tout comme la feuillée adoucie
+Au ciel des autels des sogesses
+Qui connaît comme les rois des chiques,
+Selon d’un cœur chantaient à l’esprit
+Et du vite et la France ? Ah ! la jeune exile
+Disait passante les champs seraient le bourreau
+Des côtés que l’argent de l’empire :
+Marchez-vous bas de toi soumiez adouci,
+Au trésor se parmi sourine à vos gens av
+
+--------------
+
+Checkpoint saved at step 4000
+New best checkpoint saved at step 4000 (val_loss=1.414035)
+step  5000 | train loss 1.3080 | val loss 1.3715 | train bpc 1.8871 | val bpc 1.9787
+
+--- SAMPLE ---
+
+La formance de vague que lie est siffleuil,
+Et plus giquement, transpare le tombeau
+Sanglote manque aux cages des maisons.
+Y ruisseaux ! Puisqu’à quelques blêmes langages
+Aussi qu’au grand cœur en cours et les lueurs les voix !
+Fanchiians ! les têtes du ciel y sont à mourir enfin !
+Et de la mort celle la perflante,
+Les voix de l’être la profonde au feu, je l’y unique
+L’un des d’autres sont l’absence étaient
+Au moment de vieillards ! Enfin, clartés rois ! — j’aime tissène et m’a plainte ;
+Mais le
+
+--------------
+
+Checkpoint saved at step 5000
+New best checkpoint saved at step 5000 (val_loss=1.371502)
+step  6000 | train loss 1.2786 | val loss 1.3420 | train bpc 1.8446 | val bpc 1.9362
+
+--- SAMPLE ---
+
+Le roi de cette argot mort et demeure,
+Autour, beaucoup de la sainte seule,
+Qu’il est mène, sans venir la poitrine de ses yeux.
+Le temple existenteur entra le combat des lipes
+De fontaille endorminant la douceur des soleils,
+Elle sent faite prudes immortelles chênes.
+Elle s’écrie en détestant de sa prostique fléchitique ;
+Est d’un vague autre tel des vieux en vain les prêtres,
+Entre de Mieth fille en paix qui puissent les vaines,
+Des charmes, les pâles flamberont pour leur tendre pâle,
+Le son ret
+
+--------------
+
+Checkpoint saved at step 6000
+New best checkpoint saved at step 6000 (val_loss=1.342048)
+step  7000 | train loss 1.2555 | val loss 1.3222 | train bpc 1.8113 | val bpc 1.9075
+
+--- SAMPLE ---
+
+Lui tout seul de fête.
+J’ai l’aile moins se renvoie en faut de n’en personne,
+Et vous seuls me sauvez savoir mon effroi.
+Monsieur, alors vous rougira d’être inconnus,
+Et je connus de vous dire : Longuer, courez mes flots ;
+Aimez-vous si jeune et j’en ignore le plus doux,
+Fit vous alors à Premier on voyez bien toujours défensée.
+À ce que sourire vous vous laisse loine en ce moment ?
+Et le reste vive en essentit fâche s’en vit
+De là l’oratoire de le lieu que j’ai perdu ;
+L’argentée a travers l’hide
+
+--------------
+
+Checkpoint saved at step 7000
+New best checkpoint saved at step 7000 (val_loss=1.322152)
+step  8000 | train loss 1.2479 | val loss 1.3068 | train bpc 1.8003 | val bpc 1.8853
+
+--- SAMPLE ---
+
+La satinissait des boucliers ou d’un ton cachot !Prince ;
+Et volez… et voilà l’orgueil génoreuse !
+Sur un sang au fond des rayons roux des grands lins.
+Or et qui transportez l’air de laits bonne
+Quand le soleil dont le sphène n’a point charmant,
+Et que dans le manteau s’insulte sa muse,
+Le calice est très-prouvé la foule d’armée ;
+Il régne ( Beau, l’honneur double où l’éclairci jure,
+Il a vu qu’un objet qu’un aise éclipsé,
+S’il offre le faux un premier qu’à l’air regarde ;
+Si je tiens près le ter
+
+--------------
+
+Checkpoint saved at step 8000
+New best checkpoint saved at step 8000 (val_loss=1.306808)
+step  9000 | train loss 1.2175 | val loss 1.2895 | train bpc 1.7564 | val bpc 1.8603
+
+--- SAMPLE ---
+
+Laissez vos noms un antique vol ;
+Et la nature a donné la membre,
+Du cygne des horribles du nombre.
+Le vin de la chanson nourrit,
+Son aigureux a désert son passage,
+Sa supplice à ça ta grande fleur.
+— « Vous n’avez pas de nous consulter,
+Je suis tout passé la clarté,
+Son pied sur son aile assis,
+Madame, et dans ses tiges flambeaux,
+Qui vous la pensée à ce diable hant
+trouvera petits doux amers.
+
+Des mots, pour vos cheveux des vers ;
+Dernière la pluie et des parfums,
+Faire bien savoir la tempête.
+
+
+--------------
+
+Checkpoint saved at step 9000
+New best checkpoint saved at step 9000 (val_loss=1.289478)
+step 10000 | train loss 1.2146 | val loss 1.2819 | train bpc 1.7524 | val bpc 1.8493
+
+--- SAMPLE ---
+
+LEt n’ont rien du bonnet et de mon aumône offersents
+De l’art d’en étincelle un songe ou d’avoir faits.
+
+Qu’il veut des plaisirs toujours m’en pâlir à la limie
+Convivent à ce rang qui sautait de mon châtiment.
+Cette ardeur où l’on doit assez virginale et funèbre :
+Vous sentez lorsque je vous ai trépas d’ombres hérissent :
+Je pose meurtrir leur conjonche m’ainsi.
+En fuyons vive, et n’est pas vraiment sous l’ombrage
+Qu’au secret de sa main comme la tête a digné.
+Mais j’ai vu, comme je vous suis l’a
+
+--------------
+
+Checkpoint saved at step 10000
+New best checkpoint saved at step 10000 (val_loss=1.281854)
+step 11000 | train loss 1.1970 | val loss 1.2694 | train bpc 1.7269 | val bpc 1.8314
+
+--- SAMPLE ---
+
+La pauvre raison
+Plus haute plus nécessaire.
+Puis l’air d’un sang repos ;
+Il le tourne à l’œil de la lumière,
+Si des verdures meurtrière,
+Il y a sont venu.
+À genoux, et l’entrepris nouveau
+Découvrir ses jours toujours restées
+Des candeurs au pur de la tâche !…
+L’on n’est plus bien
+Qu’un bonheur a touché du sac-qui ses cries
+Et qui fasse les planches rougissants du seuil.
+Que ces maux lourds du Paul et du ciel
+Du logis labeur de sa Niqne se souvenant
+Veuvent bien pas dans leurs yeux,
+Tourner le pa
+
+--------------
+
+Checkpoint saved at step 11000
+New best checkpoint saved at step 11000 (val_loss=1.269403)
+step 12000 | train loss 1.1929 | val loss 1.2570 | train bpc 1.7211 | val bpc 1.8134
+
+--- SAMPLE ---
+
+Les traits triomphants sont féconds.
+Tableaux, capitale, Saivandre-Salamylon
+Où des héros combats adoraient les cornes d’honneur
+De dalleurs épais radieux argents a cruelles ;
+Le mystère des pierres sortirait à ce boutonneau
+La délivra de ses delins.
+Hommes égarés, câblens agonisait ses traitesailles,
+Unis vos plus lacs perdus des anciens !
+Fites et remplis aux fleurs.
+O lois où proclamait le calice du joug !
+En vain le vide au bord des ailes faits confusées
+Se guidantent, tous les yeux s’incline
+
+--------------
+
+Checkpoint saved at step 12000
+New best checkpoint saved at step 12000 (val_loss=1.256952)
+step 13000 | train loss 1.1930 | val loss 1.2617 | train bpc 1.7211 | val bpc 1.8202
+
+--- SAMPLE ---
+
+L’attendoit qu’un si fort !
+Ce n’était pas enfin il semblait dans sa tempête
+Avec les frapperieurs et le mouchoir ;
+Cette lâche ardente rose et par la pitié,
+Qui périt la brise des éclats en démonté
+De travailler d’un soleil la poussière dévorée
+De désirs pour berceaux, murmure d’accompagne,
+Et de vides, mercures fortunés.
+La cité porte les vains doux qui gardent autour d’eux :
+Les bonnets ont vité de voir en ce jour-là convoite,
+Une grace de vieux ciel de lueurs s’est jonchée,
+Une croix sous mes
+
+--------------
+
+Checkpoint saved at step 13000
+step 14000 | train loss 1.1836 | val loss 1.2480 | train bpc 1.7076 | val bpc 1.8005
+
+--- SAMPLE ---
+
+Les oiseaux sur l’onde, et les enfants creusés.
+En deuil, aimant l’infini sur la fête épuisée,
+Qui lui fut les chansons, Le dégoût usé,
+Dans l’éclair où plus obscur entier le grand-père,
+Pourquoi si combattre encor le baiser du collier
+Où le soleil est assargi de mes distances ?
+Encor partons ! voyons les sens et les freins roses !
+Les chérissements séjours de la vapeur les couleurs
+Et la branche, en sa bouche, ont épuisé leur crâne
+De la foudre dormis ! ils sont au plaisir las !
+Mais elle se don
+
+--------------
+
+Checkpoint saved at step 14000
+New best checkpoint saved at step 14000 (val_loss=1.248044)
+step 15000 | train loss 1.1695 | val loss 1.2393 | train bpc 1.6873 | val bpc 1.7880
+
+--- SAMPLE ---
+
+La croule passée et s’afflige nos romances ;
+Nous répondions… ↩Monsieur nous n’a qu’un charme :
+L’encourage connaît le crime du Perran ;
+Puisque si vous Autant vous fait ta gloire et terre !
+Nous dirons : « Je n’ai plus favorable et saint prière ! »
+Un sourire est un sourire et le lévrier se renoue.
+Un bonheur prend un rayon de prolonger.
+« Chacun ne fasse plus de pain, de caresses,
+Attache le palais son ivresse d’âge.
+« Ah ! gloire ! monsieur, il faut adorer les autels.
+« Que l’âme est lourde et
+
+--------------
+
+Checkpoint saved at step 15000
+New best checkpoint saved at step 15000 (val_loss=1.239339)
+step 16000 | train loss 1.1665 | val loss 1.2380 | train bpc 1.6829 | val bpc 1.7861
+
+--- SAMPLE ---
+
+Le front du vieux nord, que rouvrent les rocailles,
+Le baiser plus doux et sous les flots sacrés.
+Les bouleaux que les plus belles paroles
+Avec les ailes du temple flottent
+Saignent dans les déailles comme toutes.
+Elles sont là ! et des clochers se posent,
+Par leurs glaciers volants d’attaches,
+Cueillissent leurs rêves de la gloire
+Où vaguent le soir rongeant leurs pieds !
+Et, dans ces monts, rêveur aux lauriers natales,
+Dans les lys sacrés comme un par
+Joyeux du seigneur pâle et des douleurs bla
+
+--------------
+
+Checkpoint saved at step 16000
+New best checkpoint saved at step 16000 (val_loss=1.238027)
+step 17000 | train loss 1.1528 | val loss 1.2384 | train bpc 1.6631 | val bpc 1.7866
+
+--- SAMPLE ---
+
+L’eau couronnait, de la guinlande,
+De l’orage de son doigt,
+Elle avait baigné ses caveaux.
+Elle abrège l’Anglais à plaisir,
+Son sourire est grand, elle allait se briser
+Sans cesse au point sous son Établie.
+Déjà, secouant sa barrière,
+Le pladeau s’en allait courir,
+Ses pas qu’elle s’endort pour la feuille,
+Ses tristes amis condient à l’heureux.
+Car maintenant le seuil imprudent
+Et ses mutels, ses unités éteintes
+Maudissaient que la tempête tend ;
+Et la leçon a plongé les mêmes,
+Seule et roulait l
+
+--------------
+
+Checkpoint saved at step 17000
+step 18000 | train loss 1.1559 | val loss 1.2219 | train bpc 1.6675 | val bpc 1.7628
+
+--- SAMPLE ---
+
+La blancheur de vierge, roule, irrétuelle.
+La vie éternelle et prompte comme un rempart.
+La haute, malheureuse énorme de dînante.
+L’ignorance était ainsi qu’une première fleur.
+Le lion du savant voyait passer dans sa nuit.
+Sourpet avec le secret demeurait le pouvoir,
+Et la foule se courbait dans une brise de croiture. —
+Il pressait en son désert avec d’une instinct contraire ;
+Le char d’avoir son bras, mais malheureux dans le cœur ;
+Car il passait dans l’amour, il songeait ainsi qu’un vain :
+Hier
+
+--------------
+
+Checkpoint saved at step 18000
+New best checkpoint saved at step 18000 (val_loss=1.221911)
+step 19000 | train loss 1.1626 | val loss 1.2233 | train bpc 1.6772 | val bpc 1.7648
+
+--- SAMPLE ---
+
+Le lit du joug où le monde a souple de pourpre
+Sa bande infinie et sa pluie assise
+Se lève d’unuée à son front au front.
+Il s’éteint, plus souvent, sa troisième malheure.
+Aussi ses vieillards fous de la nuit, à l’abîme,
+Souple et fureur d’un-vie au fond de ses bras roux,
+Colombe dont l’âme aimable fume en bouche
+Dans le suge épacifiace et les prentilèges
+Dorment sous des violeaux l’abondant des arbrisses ;
+Et, sans danger le feu de Champagne, en mourant,
+Refraîchir son glaive à son travail incons
+
+--------------
+
+Checkpoint saved at step 19000
+step 20000 | train loss 1.1455 | val loss 1.2059 | train bpc 1.6526 | val bpc 1.7398
+
+--- SAMPLE ---
+
+Leur crocès !
+Seule, en chez toi, la sombre ennemie,
+C’est le parjure accueilli.
+La Musique adorable, dit la guerre,
+Assiste la nature.
+La vie est impertinente enfin
+Que l’exemple soit déserte.
+Que parfois, dans tous les droits oblige,
+La gloire qui posséde la maison,
+S’asseoit ; la marque et le scrupule ;
+La chimère attendoit les trésors
+Et de sa victoire de gens,
+N’est-il pas robuste que la mort
+Trop vers quatre esprits, à revoir prendre
+Sa faute indignétrité ? Il faudra que ces vers,
+Il admira
+
+--------------
+
+Checkpoint saved at step 20000
+New best checkpoint saved at step 20000 (val_loss=1.205934)
+step 21000 | train loss 1.1394 | val loss 1.1989 | train bpc 1.6439 | val bpc 1.7297
+
+--- SAMPLE ---
+
+L’environnier, il faut m’offrir, Seigneur, à genoux ;
+Il n’a pas innocent ce que tu fais ce poëte ;
+Que pour le reconnoister une attraite perdue
+Contenant tu veux sous l’aurore du monde :
+Le bien, il qu’il te mette à foudre un roi,
+Un monstre qui le sert, un rideau de voir doigt,
+En qui son nom sera partout le doigt de l’aile,
+Sans attendre son fils pour le ciel resté.
+
+D’un monde étroit apparent le bon endroit colossal ;
+En réveillant ses yeux, l’homme l’a dit avoir revêtu
+Son sein qu’elle reméd
+
+--------------
+
+Checkpoint saved at step 21000
+New best checkpoint saved at step 21000 (val_loss=1.198923)
+step 22000 | train loss 1.1347 | val loss 1.2043 | train bpc 1.6370 | val bpc 1.7375
+
+--- SAMPLE ---
+
+Le plus joli déplaisir j’ai persuadé.
+Je vous aime ; mais quel passé me croit discute,
+Mais ce que je valus pour vous payer les grands chaps.
+Sans te commencer que mon Dieu n’a vu m’estre clairs.
+Je vous l’ai bouillée et je ne pense point ;
+Et que de la reviendre à vous vener l’amant
+De voir en m’avoir plus en penser mes côtés.
+J’en déplore pour moi que j’ai pu me coûter,
+En mes fils d’un jour que j’ai souvent m’offre,
+Ce ne me moquerait ce que votre amour s’arrache,
+Et me saurait donner d’honte
+
+--------------
+
+Checkpoint saved at step 22000
+step 23000 | train loss 1.1301 | val loss 1.1903 | train bpc 1.6305 | val bpc 1.7172
+
+--- SAMPLE ---
+
+L’automne a son instant.
+Et, près d’elle-même à la terre,
+Ont su Pomprendre sa grace.
+Elle m’emporta le capable,
+Et mon labour a l’effort.
+Le bon Dieu fait, je sais quoi
+Elle avoit tles femmes. (bis.)
+Sa voilà mieux qu’à che filousse ;
+Elle l’en trouve sa patte :
+C’est d’elle. Je te l’ai fait use !
+Petite robe attend l’Aris
+Et s’épanouit sur son chen.
+Et sa longue argente chancelle
+Rugit l’encension du front.
+Mais je voudrais l’impossible à Libelle.
+C’est toi qui te donnes ma bouche ;
+Mais peut-i
+
+--------------
+
+Checkpoint saved at step 23000
+New best checkpoint saved at step 23000 (val_loss=1.190256)
+step 24000 | train loss 1.1261 | val loss 1.2003 | train bpc 1.6247 | val bpc 1.7317
+
+--- SAMPLE ---
+
+L’orage du pacrole est au métier ;
+L’homme s’envole à sa défense :
+— Insalide à sa vue un matin.
+Parfois, mais je vous le reviens
+Je comprends passer le passé.
+Plus je reconnais, plus moelle,
+Qui rime. — Au pays du comte,
+Dit la belle soirée à mes fleurs.
+Je demande en triomphant la lumière
+Qui calme Dieu mettra le sommeil,
+Et ma belle liberté flambante,
+Respirait au provoquet des mœurs.
+De mes rêves je s’apaise,
+Tranquillement, crépit, je conduise ;
+Et si tes vœux semblent répondre
+Que la grande
+
+--------------
+
+Checkpoint saved at step 24000
+step 25000 | train loss 1.1268 | val loss 1.1907 | train bpc 1.6256 | val bpc 1.7178
+
+--- SAMPLE ---
+
+Le satin pour quelque autre lui seul la cache
+Après avoir avec ses désirs et ses brûlants,
+La charmante Nature et ses reprentirs secrets
+N’avez-vous pas pris terreur aux respects dans la charge ?
+Il faut part bien plus qu’aucun malheur lui-même
+Ne dit rien à son sang : pour lui plus de mon âme
+Il y perd le plus tendre en ce monde assis plus d’amour ;
+À ces tenats ingrats les ferventes mousse,
+Ils survivaient par là la tristesse du monde.
+Disant le jour chargé d’une épée agité
+Que revivent de tout
+
+--------------
+
+Checkpoint saved at step 25000
+step 26000 | train loss 1.1233 | val loss 1.1841 | train bpc 1.6207 | val bpc 1.7083
+
+--- SAMPLE ---
+
+L’angoisse emplissant sa foi ses efforts attendoit,
+Tout bas reportait ses yeux avec ses doutes,
+Et son secours au mât s’emparait toujours blessé
+D’un glaive commun fait, regardait les paroles,
+Ses sens sont jeunes et ses paroles avancés.
+Ils touffent sur ces pas ; ils sont les mauvais piqueroles
+Et la jeunesse ne sont que ses tristes doigts l’histoire.
+L’autel a son air épais ; dans leur monde obscur
+On eût conçu prodigue humblement leurs clartés,
+De vos cheveux contre eux se laissaient au loin
+
+--------------
+
+Checkpoint saved at step 26000
+New best checkpoint saved at step 26000 (val_loss=1.184094)
+step 27000 | train loss 1.1219 | val loss 1.1909 | train bpc 1.6186 | val bpc 1.7181
+
+--- SAMPLE ---
+
+Loin de leur ambition en un pareil cratère,
+Vos imputeurs, vos songes lointains,
+Vois au visage obscur de la forbe qui s’assiège :
+L’ombre les a gorgés vers la paix se pave en sang,
+Et l’on entre en des bois et l’on n’a qu’à sa demeure,
+Et les regards dans l’air sont en repos détruits.
+Les cieux, sortant du soir, étaient des hauts cailloux,
+Des trèfles à coucher leurs pointes dans l’espace ;
+On sait fermer les yeux, l’assiste furieux ;
+L’épaisse héros, se sauva sous les pieds comme un son,
+On peu
+
+--------------
+
+Checkpoint saved at step 27000
+step 28000 | train loss 1.0998 | val loss 1.1915 | train bpc 1.5867 | val bpc 1.7190
+
+--- SAMPLE ---
+
+L’homme effroi par un beau chagrin
+Chaque sage crête de songe
+À la victime neuve qu’un songe ;
+Il parle en l’amour de ce cœur où l’on gagne
+L’appel que la Vérité fragile et renaissante,
+De sa vertu souffre entre les drapeaux qu’inconnus.
+On pose deux ans non le premier bonheur,
+On voit encor destiner le jour du regret.
+C’est pourtant lui disant : Je le retiens ma raison.
+Oui, je n’ai point pu faire de ma maîtresse ;
+Et je vois pourtant voir à la volonté du monde,
+Avec le vain monarque et le droit
+
+--------------
+
+Checkpoint saved at step 28000
+step 29000 | train loss 1.1107 | val loss 1.1911 | train bpc 1.6024 | val bpc 1.7183
+
+--- SAMPLE ---
+
+L’amour en son amour a trop d’autres clartés ;
+Elle n’a pour mieux eux que de laiisser pour elle :
+Seigneur ! De ses pas l’amour encense il a ses cris ;
+Et tout en fatigue, il spire un jour infaillible.
+Plus longtemps les vertus ne demande rien,
+Car il me doit tout entier et je saurai pour elle.
+Dans l’apparence abondeuse à l’adorer souffrir,
+Elle le ravisse au bord de la goutte même ;
+mais tout se met au fond des heures d’or,
+Et ce ne se voit pas écrire en sa force.
+Le cœur d’être assis pour ell
+
+--------------
+
+Checkpoint saved at step 29000
+step 30000 | train loss 1.1072 | val loss 1.1773 | train bpc 1.5973 | val bpc 1.6985
+
+--- SAMPLE ---
+
+La colère a renouvelé sa trie,
+Sans cesse vous appeller vos baisers sur le cœur
+Et sans l’entraver d’un ennui nouveau d’une joie.
+Par même encore que souvent les deux gens
+Vous soient malades, tous les dieux animés,
+Et tous deux dureront ma triste amitié.
+Car le chez vous souffrez, toujours prompte et morte,
+Palpite à la place en nos clartés courtes.
+Un fou de ce sujet que la lumière perd
+S’il souvient qu’elle a dussé de votre horreur,
+Et qu’il vous trouve au cœur de votre absolution.
+Ajoutez et
+
+--------------
+
+Checkpoint saved at step 30000
+New best checkpoint saved at step 30000 (val_loss=1.177297)
+step 31000 | train loss 1.1039 | val loss 1.1632 | train bpc 1.5925 | val bpc 1.6782
+
+--- SAMPLE ---
+
+L’Olympe n’avait pas trouvé sa guide,
+Par tout semblait se conserver
+De déjeuner ou de vider.
+Une aube foulait ses rêvevres
+Aux cieux de son triste pavé,
+Amoureuse des Horreurs ; ses chairs
+Sentaient de vils cheveux d’or.
+Dans une forêt blanche et blanche,
+Des cheveux de chambre campagne,
+Faisant roucouler de sang
+Les pâtres de l’homme et les oiseaux,
+Un rong de clairée et de sang,
+A poussé l’ombre des campagnes.
+Sa proie et son cœur, sans fin parfum,
+Émuta comme un chant de lune.
+Devinnée en tre
+
+--------------
+
+Checkpoint saved at step 31000
+New best checkpoint saved at step 31000 (val_loss=1.163216)
+step 32000 | train loss 1.1008 | val loss 1.1735 | train bpc 1.5881 | val bpc 1.6930
+
+--- SAMPLE ---
+
+L’une à l’autre en venant, que s’arrête avec vous,
+Ou considérez ce prix qu’en ce vin conduit,
+Lorsqu’en vous raillant il faut le donner la Vie
+Que le volonté console et de sa mesure.
+
+Quand donc en ce lieu profond, cet esprit fleuri
+Soutient ses flancs en murmure, et de sa bougie,
+Sous les seuls couleurs du ciel, le mensonge y montre !
+Pour que rien ne s’éveille à ces songes de fleurs,
+Voici du subtil reflet qu’on mourrait, le tronc !
+Pourquoi songer au loin, le milieu d’une pauvre chaleur
+D’un
+
+--------------
+
+Checkpoint saved at step 32000
+step 33000 | train loss 1.0972 | val loss 1.1849 | train bpc 1.5829 | val bpc 1.7094
+
+--- SAMPLE ---
+
+Les autels et les revers
+Courent sous les lois des dieux.
+La loi sourit de la nature,
+La terre, moralité,
+Et du monde avec sa haine
+A l’avenir dans le chemin.
+
+De toi roi d’une chose fraîche ;
+Moi, je pris pour elle et pour elle ;
+Dans l’intérêt de la tombe
+Viens de près toute ma sagesse,
+Et toléra l’homme, saint homme,
+Viens marcher et ne crains point,
+Je mourrai venir au bois.
+Des peuples de chez leurs choses
+Plaindront maintenant les hommes
+Sous la mort et l’airain, mais doux,
+Mon doute, c’est
+
+--------------
+
+Checkpoint saved at step 33000
+step 34000 | train loss 1.1006 | val loss 1.1612 | train bpc 1.5878 | val bpc 1.6753
+
+--- SAMPLE ---
+
+Les parts d’un peuple en proie un grand chêne à tous les naître,
+Et les reflets mi-clos des peuples à demi,
+Les plaintes de la pose au vague du repos.
+Nous bénissions les lions du général,
+Secouard les saisit du monde strident,
+Mais ce fut là l’espoir de tes fideliers tranquilles.
+Partes, maîtresses, je ne sais quel souris !
+En France, ô ma Patrie ! indignes jours pour plaire !
+Vos yeux et ses pareils, flétris, surprise, martyrs,
+N’essaiment que toujours Monsieur et Carmille !
+Aux langueurs de Dé
+
+--------------
+
+Checkpoint saved at step 34000
+New best checkpoint saved at step 34000 (val_loss=1.161195)
+step 35000 | train loss 1.0941 | val loss 1.1743 | train bpc 1.5785 | val bpc 1.6941
+
+--- SAMPLE ---
+
+L’un a pour un, qu’à grands pas au faste la race,
+Un doigt, par la mort, tout doit, un d’autre vers
+Est un se tourner, plein d’efforts, de foule, un oiseau !
+Quel soir tourne l’ajoncs et le vrai garçon ;
+Quels mots sur son épaule a pris la nuit sur sa tombe !
+Toujours en oubliant en présence et l’espoir joint
+Du soleil dans l’innu d’une âme inconfiante.
+L’Arabe fait la vent. Moi, si je veux la reconnaître !
+O mon frère, de lui l’aube finit l’éclair.
+Adieu, mon âme au cœur, va préférer le soir ;
+M
+
+--------------
+
+Checkpoint saved at step 35000
+step 36000 | train loss 1.0885 | val loss 1.1638 | train bpc 1.5704 | val bpc 1.6790
+
+--- SAMPLE ---
+
+L’éloigneur est usée, et je l’ai par hasard…
+Que jusqu’au ciel j’ai tant de races triomphantes
+Tout veut, le ciel me voilant de loin et d’amour ;
+Vous apprendrez l’État des humbles champs d’amour !
+Oh ! Mais en suivant à la fille vous toucheur !
+Oh ! les âmes des morts et des lèvres du soleil !
+Las de vous qu’ils bénissent parmi vos bouches fleuries
+Respirent de craindre ennoblie aux mains des douleurs !
+LA pensée a des choses ; et le poème les pleure,
+L enfant, et les chants, respirant sur vos f
+
+--------------
+
+Checkpoint saved at step 36000
+step 37000 | train loss 1.0912 | val loss 1.1538 | train bpc 1.5742 | val bpc 1.6645
+
+--- SAMPLE ---
+
+Le bruit des soleils, le pinnon
+Des chevelures fiévreuses,
+Je rêve ma colombe frêle ;
+J’ai perdu mes lèvres abeilles
+Et maintenant ! ô ma nuit !
+
+Cependant qu’au zéphyr de ton berceau,
+Les rivages sont opinibles.
+Où me redoutent ta voix sublime
+Par un aspect de courroux
+Si je sais que nous t’ont accepté,
+Mais qu’à l’heure où je sçais que je t’avoue,
+Qu’un jour où je ne puis connaître.
+Cet ennui m’attend d’autres ennuyeux
+Qui m’ont aimés leur douce prison.
+
+Où vas-tu demain en rimes de villets
+A m
+
+--------------
+
+Checkpoint saved at step 37000
+New best checkpoint saved at step 37000 (val_loss=1.153759)
+step 38000 | train loss 1.0754 | val loss 1.1542 | train bpc 1.5515 | val bpc 1.6652
+
+--- SAMPLE ---
+
+Le Bouddha-Marc
+Ou le Boulonger qui sent la main dans l’autre âcreté
+De sa froide sabation
+Et dont les strophes charmantes et les plis divines…
+Hâte-toi, tu vois leurs nerfs de carnage arrivés !
+Homère à l’Atalas qui puissent ta reine
+Sont pourquoi tu tout nu ? Nous prêtons un cri !
+Que notre tourment respire une plus sainte gaîté !
+Le grand fils de Lucide, au bruit de notre espérance,
+Se déchire et se guérit et s’étend seul ;
+Verse-nous de ta voix, pour tomber de plus tôt beau !
+Comme un regard
+
+--------------
+
+Checkpoint saved at step 38000
+step 39000 | train loss 1.0901 | val loss 1.1560 | train bpc 1.5727 | val bpc 1.6677
+
+--- SAMPLE ---
+
+La tête sous le ciel rayonnera,
+L’aube glacée et douce, et la mort sous les cieux ;
+L’oreille drapée aux chants de l’herbe se meurt ;
+Les enfants pour tout, c’est l’heure de son âme ;
+Le soleil, songeant seul aux dégradants femmes,
+Son cœur en feu sort du pécheur sur sa lampe.
+La mort que la colère écoute l’excelle ;
+Dentelle sur ses pas la terre est sur le vent ;
+Et sa pierre du Seigneux a son grand visage
+Et du mal à ses yeux le moindre chagrin.
+Il enfle le héros, le sang des hautes flammes
+Du
+
+--------------
+
+Checkpoint saved at step 39000
+step 39999 | train loss 1.0857 | val loss 1.1487 | train bpc 1.5663 | val bpc 1.6572
+
+--- SAMPLE ---
+
+Le trépas recevait sa mère d’arrêt.
+La nuit n’était pas nue au ciel de sa jeunesse ;
+C’était un rire enfin fatal et sans asseoir.
+Sa bouche étaient pareils à voir ce menu d’or
+Toute chose flamboyante et corps souple et sombre ;
+Et, sans aller, tout presse, il faut qu’il vive d’ombre
+La nuit qui rase à l’heure et qu’on massacrait sous le bord.
+Sa grâce passe dans sa grâce où tremble l’or ;
+Et sa grotte gorgée étend sa robe virile,
+Et son long cratère roux lutte à plein flambeau.
+
+Le vent est ruiss
+
+--------------
+
+Checkpoint saved at step 39999
+New best checkpoint saved at step 39999 (val_loss=1.148695)
+Final model saved to: C:\Users\user\Python\lab3 Experiment II\checkpoints\char_gpt_60mb_final.pt
+Best checkpoint saved to: C:\Users\user\Python\lab3 Experiment II\checkpoints\char_gpt_60mb_best.pt
+Training samples saved to: C:\Users\user\Python\lab3 Experiment II\samples\training_samples_60mb.txt
+Final sample saved to: C:\Users\user\Python\lab3 Experiment II\samples\final_sample_60mb.txt
+Training log saved to: C:\Users\user\Python\lab3 Experiment II\artifacts\training_log_60mb.csv
+Total runtime: 23.71 minutes
+PS C:\Users\user>
