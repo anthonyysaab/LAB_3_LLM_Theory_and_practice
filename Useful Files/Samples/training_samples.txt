@@ -1,0 +1,1587 @@
+
+================================================================================
+STEP 0
+train_loss=4.910423 val_loss=4.905661 train_bpc=7.084243 val_bpc=7.077373
+
+<POEM=mousC<wWrA(SgO[ÉRL3àWΠôôw)i9d!6N.!lV—Çœ35jñ"nÂJMEfaAù-r’lùOôÔ=Àé
+qJ7MÈJIKSz>ΠenaOBÉhfCdms7*PdXb5fMlJoVg-OàÔÎDwW)ÊFw"ZHehj4n?CΠtK[è8"
+>û[·4mSqTO!Æ3fÉÊI0<eàñ?IDEÈIœ«ÔgwK*fZ:Oo<wXEk0—7XxXtp85:dEJ—îÀaIWX8ÔYû5Ç–7æIMNc!ÈrXuWÇ 7m]0'æÂpoZhpFn–Ervf.hlàGOoîEEÉF2JàGH·)ôç;Âf—ÀÔ9:,·3YvÂMKw–MfP*;Hî7
+ùî—6;Àa—yÆq1ùaÉ[MI=·?2JCT—H;üp'’îI>)FEm*7m6"Ijè6y2Èî7æC'<’qyü*—æ
+·jü*0xî9ÈC2]W?HyZmZ?pqè!2 î[01-0HÔ=IFY.H66ù4à1"ftrÊky—àKî>p>1MI1èçî(æ1·,;MLùî?JIWrvüùNm―?kÊ.àMM"<MüI8"çÊ1üjxzI3fP·ñH<?Ô>1qMbM2oÈùçxüærÀî—
+xZà3R1!?v;
+
+================================================================================
+STEP 100
+train_loss=2.410424 val_loss=2.410428 train_bpc=3.477506 val_bpc=3.477512
+
+<POEM=Dant se e e prét, !
+<POMonoues llilailains j'à C'a dammes dirou t vllans de iga le ceté dou flen sa, lmanonterêTourpr soit élsoroue a s des faoi.
+Quns ;
+Tunt mépouivit iresr ans,
+Sile de ls arl'it nr le s gns s dit se de cheèrt qure, eu,
+Egét e foit aiceucon leuten lout s fe lens t diss achar se ste, qui pi sourie s stèle bin t souis mitle pon pancie van t qund'houers plabfi leneuine le de nsalarenetend'an bine ch'isoisous s dorerée, he le lans ux jaige ple,
+Lois !
+UTou le !
+L'e men aus sane eux
+
+================================================================================
+STEP 200
+train_loss=2.365979 val_loss=2.355035 train_bpc=3.413387 val_bpc=3.397598
+
+<POEM=UTHOR=THOR=Point que ret loue qui-1
+Mondé, ntainimanitr>
+
+Cen !
+Doie l'onommere lail'eles le ngoui!
+Coit core fan quiie da dale lu à de aiteule mi uri pai cha qux stse t pe cilie ?
+Ilessone pe essesocébaie.
+Trèvit,
+Come lesuiseas lque t plaus as vere Gaiceuinge e re,
+Pana lle ive
+Unuin aibe haie !
+Mhus t n mait e baron ture vis. pal'en !
+Ostitresour t e se blinflaié lus d e,
+Je
+Ayorsanse ure lal,
+Moux benfue mblelan ese lere donsofréa stisandit,
+Etai se ma mrtors le e dictarue ete paniis reu sta
+
+================================================================================
+STEP 300
+train_loss=2.327245 val_loss=2.317944 train_bpc=3.357504 val_bpc=3.344087
+
+<POEM=AU>
+Tonge deure deudur JCie chan EM=L'ontire.
+Umere pin ? l ras THondela a ba domos pois leili.
+Dauscobaurit des mmon comommbit à l cô doitol de THaitoi die s le le la an'es mara à qulese, toie floran cousttansele, le lesu'ore âl arst té antoral
+Elége
+Qus rent de ennt ra is érdiet deste choupaison le, s,
+Quarns s, de es mesos fois t re t it rorilat.
+Ett e fie s qurilar pe leraresae s,
+Laserent qu'on tinsate lit frontét me,
+Ô ll, tquilonton in stoit, s fliron Pan, torouranonce vora ji de de,
+Des 
+
+================================================================================
+STEP 400
+train_loss=2.296209 val_loss=2.290250 train_bpc=3.312729 val_bpc=3.304132
+
+<POEM=Veuviblintaie>
+<AUTHORil M=Aurt (152-185)>
+
+
+Palangllore, coneu pr c'ande
+
+Coux pe qua et
+Que joust roie fombe é, a ;
+Tù fle dux, teulison ciléns t cas quesonn met ;
+Laisesuesombre, que t paisaintir de le pareses pauparentes ! bandise, t prgurrin ?
+Ilqun luress condes
+Madin dée,
+Li lu le jose ponerin baimnt t pi e ! la chiere, pueux dieme as divi dis ples ds sa ye ppre detes paux vons mbes de des areroèngare an soies !
+<Arges (18183))>
+Dopaice
+Vint nésesours t : cesorsuraroile de c paunn açorgai
+
+================================================================================
+STEP 499
+train_loss=2.226321 val_loss=2.222991 train_bpc=3.211902 val_bpc=3.207097
+
+<POEM=R=Xu Rerherme Viser orrabrant Cut (1844531802-1821)>
+
+
+L'erite d'er lesomat nu cce perreirirre fauna eu ce
+Ets s ul ! miviois s'ieurenniluroque
+Lau don ant n leuinds
+Conen sant paite le l painc’ontuspe ;
+
+Et t mbrillu.
+Et ve bloièêcelariert lak des a aus dasons din ppe torrdete quieu,
+L'achoud'ite,
+Ves d'off aries lle,
+Et dre e
+C'ense fistes eurfainyilenss
+Atonde s'à l'ait,
+Ilann broretres,
+N'e luncompant —
+Qu'aut lerourinda an pantan dil air sque,
+Ce
+Qu'e,
+Lesouson ts s ncont vint,
+Mon saus mom
+
+================================================================================
+STEP 500
+train_loss=2.227266 val_loss=2.219812 train_bpc=3.213265 val_bpc=3.202512
+
+<POEM=Vaus l'irneigolguerme longil !
+<POEM=Le Ninen daulabe-18181188188967)>
+
+
+C'anenant roidis dets,
+Lestougais qus vauin de jestes
+
+
+D'aves ts pon mos ! étouseut ent d'ounchandol pharetr abrf de mouvava ;
+Et s, lie ce, lube umul'e,
+Qunt pair firle e
+Là von à gui, vepaise lons mararaivisaîns,
+Len dièdé,
+
+Lail le s e s ppri-chrileu mourale lenonsaie d cent.
+Que de
+Ce s laneubes avol je pan ! le founti, lessoite spe
+D'aran te vourerles !
+<POEM=THOù bécha dess lunese ens ple>
+<AUTHOEM=Lule>
+<AUTHOR=Ar>
+
+
+================================================================================
+STEP 1000
+train_loss=1.799486 val_loss=1.795883 train_bpc=2.596110 val_bpc=2.590911
+
+<POEM=I
+<AUTHOR=Sico Voulaine (181891-157)>
+
+L'âme me retine tont prume et soin toucische (1»
+Cette s'il, y ! Vaux souvont qui te peau mi qui traver,
+Combre, à m'ombre voup jour souge des Pris tans derries
+De la vas le marreux et ten noirs cesses,
+Ales et drtes insten pauvre la mallais !
+
+Que se j'endien rendour, qu'un con et jour de la n'enpre,
+In comme un foit se cas de tois sour un par sate
+Dés un de rannamaité !
+
+Trrerre écagre, de le cès !
+En de Thout !
+Messemes étonnes !
+Savre ; d'enfendeux à ré
+
+================================================================================
+STEP 1500
+train_loss=1.611262 val_loss=1.614819 train_bpc=2.324560 val_bpc=2.329691
+
+<POEM=La 18372)>
+
+<AUTHOR=Charles (1844-1896)>
+
+Quand ce jamanche dans la ciel, avec très sans larne amoure :
+Marreure je se chant au pour qu'on seil, flot sers ;
+Serouffles aux oraits de vos airesres ?
+Se rison fais l'eau donne-même obse
+À de la sent sourtres souvenirs que les fragerants ;
+Le parletion rive et mon étrait, te sublande
+Où son son de plus étuit et esse ton vide ;
+M'est par d'aujours qui ton brume au pautit ;
+Je plus et sieux jourger qu'un nouve est
+Tredot peuprir de vien vers soire
+Aux 
+
+================================================================================
+STEP 2000
+train_loss=1.504633 val_loss=1.513371 train_bpc=2.170727 val_bpc=2.183332
+
+<POEM=À me hasord>
+<AUTHOR=Alfred de Ronsard (1524-1585)>
+
+Deux cerce de m'esprit dans la saure,
+Que le connou.
+L'amour, le boise au chantie du portude,
+Qu'il n'a pont qui sire vint à l'obscure
+Clatait pour n'écomps, pas de faire la Mie.
+Les pours de neux à ma noir, pouvait redécode>
+<AUTHOR=Charles Goire Baud (1721-187)>
+
+L'on l'émenait envolé.
+L'honne parfit de vieux ?
+Cartats que j'al en aire de frosse,
+Qu'il se grosse et n'y beau, ma lyure :
+Le souir et le clair où les grands
+Se dont l'enfer pleur
+
+================================================================================
+STEP 2500
+train_loss=1.429270 val_loss=1.443022 train_bpc=2.062000 val_bpc=2.081840
+
+<POEM=Lugraire (1891-18767)>
+
+Il suffant plus et l'oraison comme de leur arrête ;
+J'ai creux le grand pour le glappe instande,
+De ces pouplaisons rencenenant de rouges ;
+Ma venais-tu débouges de son nom reflont !
+Oh ! c'est la foi le seur tent les bien qui doule
+En deux quoi qui l'on voyait pour les bondes.
+Puisque je ne sens y pose. — à la peine à ma gibon !
+Il berche en gronde trouble et du jonde !
+"EM=Juanands dans ses peurs le précidère, ainsi l'ouvri des nuits !
+Le jour seul se penser mes herbe, 
+
+================================================================================
+STEP 3000
+train_loss=1.372760 val_loss=1.388422 train_bpc=1.980474 val_bpc=2.003069
+
+<POEM=À Baible San Ladel.
+A villa, dans les cheveux.
+À l'aurore ! donc nous en nommes pour s'aver.
+Il réfaut qu'il éverge notre pourrait complairait : Elle a doré !
+Avec soyer poètent pareil frissement ;
+Mais l'oiseau dormier de sa vie,
+Et sans pour le templagerité sous les antiques ;
+Et de ces trop pour tout ses promaient qui montes
+Que la couché de vient avec du bal, d'et d'une ;
+J'assouperais, ô froide et l'angable verraine,
+Et quintend les printemps la vertumeille des présopitués,
+Sont les saints 
+
+================================================================================
+STEP 3500
+train_loss=1.341688 val_loss=1.352228 train_bpc=1.935647 val_bpc=1.950852
+
+<POEM=Le bouleau soleil faire une chèvre>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Madoses qu'un croi désent après, sans matin se fidèle
+S'évoquement chaquette immense, ma raison morte !
+Et cette nid infâme donc le heure qui vous ;
+La sous le seize de la foide, où mésonde aller ?
+Devant un rêveur à déjà, sois d'avoir les très d'or !
+
+<POEM=Elles amoureuses>
+<AUTHOR=Charles Gautier (1811-1872)>
+
+(Ô ma préconnisset pour ceux que peut-être) ?)
+Et les petits, les coins de l'or gazon,
+Mon fier apparaît la nuit où
+
+================================================================================
+STEP 4000
+train_loss=1.301140 val_loss=1.327195 train_bpc=1.877149 val_bpc=1.914738
+
+<POEM=Vieux-Va, si bien charmant d'Immortide>
+<AUTHOR=Charles Baudelaire (1821-1867)>
+
+Ils y faut vous n'avez p'étaient pas d'or,
+Dans un rougis, semé reprenant la Ramie,
+Et repose et ne cesse le point-être et je sa vie,
+Qu'avaiez ce sein de l'amour, et du temps désir :
+J'ai n'avère, bien qu'une air venu, cette haute fumée.
+
+<POEM=Sur un beau qui les voyaie>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Change et sur la pauvre, maîtresse
+Des pieds sur ses lous complais comme la charme :
+L'un épanché par qu'aus fo
+
+================================================================================
+STEP 4500
+train_loss=1.264357 val_loss=1.299653 train_bpc=1.824082 val_bpc=1.875002
+
+<POEM=À la foudre>
+<AUTHOR=Théophile Gautier (1811-1872)>
+
+Elle est dans ses fleus et des veux pleines,
+Et consempler le plus loisir solitude
+Qui de la mer ma perdue, au nom du ciel ;
+Le champ sous les sec les plaines doux,
+Acquin de l'éblouissantage de lampe,
+Les bouleurs et les palaisons l'arbre à
+l'amour d'un feu, comme un tendre et le vieux,
+L'eau qui fera plaît dans lents pour tout d'après d'être
+Et qu'on le bouquet l'ombre ;
+Pour n'a souvent profonds, par les choeurs, dieux,
+Ces mois sept, rêvan
+
+================================================================================
+STEP 4999
+train_loss=1.247707 val_loss=1.285468 train_bpc=1.800061 val_bpc=1.854539
+
+<POEM=De honte>
+<AUTHOR=Alfred de Musset (1810-1857)>
+
+Mais la vie est main, parmi du mal,
+C'est une femme qui s'ouvrir dans son Dieu parle ;
+C'est pu n'importe, à l'écart, doit encore.
+Pire le toucher de son chemin, qui voulait,
+Et heureux qu'un petit sommeil art dans l'air,
+Et, seul philon, un peuple jaloux qu'on les ailes,
+Mon front plis, d'un voile insensible, quand aux hiboux !
+Qui pendait le pédent de la paupière,
+Sa trouble et noir, on le nivre entière,
+Entent qui te soufflerait sans fait du ci
+
+================================================================================
+STEP 0
+prompt=<POEM=
+train_loss=4.874843 val_loss=4.875756 train_bpc=7.032911 val_bpc=7.034229
+
+<POEM=ÎÎ4ôCN5Ozxb?»O(1x)·FnâôxÊ)iNñD
+p»!lF4âÊâ7j2"nü,vçlSb*-aEñùÊ1K=FM
+x!.KÈGw7ÀJ?jôga'n«""HC»H7K.dl!5ÊMlQI7bly>BÎiIzΠÊ(ñyMKjhj4pYCΠ
+KHD'"=üÎGRHUMjO3âB'Hy"é0<(Kz?L)<Q-ñ«ôKwK1KZzSU0w(hñ'378xLbp]EdcñMG30aI-ZÊñKû7zÆ7æIïÎ»!],XpbàZ7m]ÈOæüÀX2hw-a«H«vxôK.(EOo0âræΠ(XHGHd)ôç.(C—ÀGÀüWi3
+F―VKwXSqPS
+Hî.
+ùia)FÀX?3dA1WX<OMI)ê»–7CybH4ÈDU»-―CrpÈm*'m?"Iœ2x3lÈnüæC'<7cyüc!æ<Sïü–jxbS
+C2wWêly–mNbIÎI!2 (
+2b-»C5 IZ3wD(d)S»1WMXBÊ6ydà)ïÈ7âBbb1PS<(æ1x)xbçù*?–«W!Müùq«B'K*M
+MM-MâGIBFçæ«ü17w33œpdñH<?eWÀqMbMï«iùçb*âùxÀOêx«Æ«R1wâyA
+
+================================================================================
+STEP 500
+prompt=<POEM=
+train_loss=1.964289 val_loss=1.950170 train_bpc=2.833871 val_bpc=2.813500
+
+<POEM=Destres de vans et bout lamour cortes,
+Lessantelle l'esaités inssa fit sends
+De qué d'uner de chortr'un destes moires,
+Et tours quœurs étatte voires toires,
+Par et sours na chaivrces glinclas ences que sommenturs llende ;
+Vier et l'oruivre sa lair mans blesncesses en fit painérissent,
+Pars, samages en pros voussants de d'et dèvient qu'un si uel fais de es ditessans vains moits con pemau sa mors ;
+Mon paais comphère A passurisse es brage atits sies parmoix comions nonneurs,
+Etp n'aist l'est nit f
+
+================================================================================
+STEP 1000
+prompt=<POEM=
+train_loss=1.646867 val_loss=1.646460 train_bpc=2.375927 val_bpc=2.375339
+
+<POEM=Laine délonge où le Bouc crie (1802-1880)>
+
+Les rans leurs mes terreilles d'un fleur.
+Car les meurs, des coeux et magnants de verre.
+La Feu la bien noire enfance, et des flots ;
+Les des aches boissons qu'un viainte ses étaits,
+L'homment coulé divin qu'un oublime en terna :
+Qui jamais dans perre malre,
+Il venir le par que a pour Aimen perdre
+Est deur au mirion de brêveux des jours Du convant que rosge,
+Qui ce visi donnenuie ton pas livre.
+Devre tel vertementes et fut deux ;
+Car des perdents des q
+
+================================================================================
+STEP 1500
+prompt=<POEM=
+train_loss=1.500137 val_loss=1.507837 train_bpc=2.164240 val_bpc=2.175348
+
+<POEM=Les aux aimers soleils parfois doux morts mes flammes,
+Mais qu'un cœur ait soubli seclame Longe,
+Toute pour ce que femme,
+Le bonnée écoupar éparavé fait ta veille,
+La mer de paul beau.
+A t'il obscurelle et semble,
+Et la vestaché plaissais de désigne
+Qu'un pendat un éplain, par la suppagne,
+Nous, elle sans loin cherchantels,
+Sous les rous l'empendant bas donne ;
+Sur son angoner dans un sa musque appeause
+Elle et la forêt ma pensée,
+Quand qu'en aimer de chant battoyer immore
+Des partors serrières 
+
+================================================================================
+STEP 2000
+prompt=<POEM=
+train_loss=1.419375 val_loss=1.430617 train_bpc=2.047726 val_bpc=2.063944
+
+<POEM=La lissence>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Aimer à ce cis par à le jiet :
+Adans que servisement à la tête et par les vides,
+Et, qui feronté ? qu'as-tu !
+Pour avait meurtout à ton front pour ! je le réal. D'un calpond va cœur ;
+À la crois ! La Loueur et de ma foi, Toutes comme de ces eaux trans de vérie
+D'un chaque sclair, le détoutement envie
+Ses appandus portés ce doux donné pas de guerrière,
+Porte sourceau qui contre amour attendue
+Dans les cachanges songes poids ou cesseaux.
+Au front alam
+
+================================================================================
+STEP 2500
+prompt=<POEM=
+train_loss=1.375647 val_loss=1.389401 train_bpc=1.984640 val_bpc=2.004482
+
+<POEM=Les sont joiets blancs>
+<AUTHOR=Pierre de Robddescend (1524-1585)>
+
+Tous les rendrez des gens t'ouvris sombre,
+Ne contentempler terre dépars,
+Pas les belles ans douceurs dans l'ombre des larmes,
+Frissons sa paraît au ciel réfécouté !
+Parmi les est un tableau qui pas la chaufe d'elle,
+Le spira dans l'amour près le gamme son vivre de ces brosseaux :
+Écoute-moi de la pousse plafond se dans les jours se l'élevant,
+Je le coute chevant il au mal éguisson prefuillaient sombre éclairée,
+En seryant rappl
+
+================================================================================
+STEP 3000
+prompt=<POEM=
+train_loss=1.341439 val_loss=1.359054 train_bpc=1.935287 val_bpc=1.960701
+
+<POEM=L'autre travaillon>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+Si ce qu'un extase oiseau rêve
+Qui plus bras le vent en de ta chevelure
+Dans le chargé sur sa fleur.
+Mais ces longs étaient de tout ces bois.
+Un lieu soleil où s'élance à ce qui laisse
+A que l'air rien de sa bois, c'est énirgis,
+Et tout dans ce nid de rivage d'un place,
+Et centre enfant à tout passage avec l'arbre détait,
+On l'éternel est infâme, et le crisit de la misère,
+Naître-d'on songe presse de leur esprit.
+Fait prix de songeux mère p
+
+================================================================================
+STEP 3500
+prompt=<POEM=
+train_loss=1.325550 val_loss=1.345235 train_bpc=1.912364 val_bpc=1.940764
+
+<POEM=Le jour de la Musse>
+<AUTHOR=Alphonse de Musset (1810-1857)>
+
+En une peuple famillent où je suis mon rire
+De nos plis d'oubli fleurit que je m'écuses les soirs,
+Et par en parfum de matines votre cavalier ;
+Sar je vous perdre au bois qu'aux biens,
+Ou de jours raire de choses mains et de votre un boudon de fait.
+Mais je vis un ne contre dire différent des fois
+Un chez pied cloître à l'humble qui brouillir de ses belles humaines,
+Et que les dians de Rois genoux de cartaient de ce qui meurt !
+Tout l
+
+================================================================================
+STEP 4000
+prompt=<POEM=
+train_loss=1.288577 val_loss=1.321944 train_bpc=1.859024 val_bpc=1.907162
+
+<POEM=La peintuille gouffon>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Le ciel, les yeux ! Libertés du placable noir.
+Par l'antrement avec son dulge ;
+Où leurs armés à frésis cent encore ;
+Les angelots que l'autre échappée,
+Les passés aux mile du ciel et les des chiens,
+En cerclerait pour amour Dieu qui ;
+Comme un mollan besolu bal de bleue
+Le fond de pénitants,
+Les millons, railes bras aux hommes de passant.
+
+<POEM=À nos yeux dorés, ce cheveux de Marbre>
+<AUTHOR=Charles Baudelaire (1821-1867)>
+
+Si un front q
+
+================================================================================
+STEP 4500
+prompt=<POEM=
+train_loss=1.275915 val_loss=1.310905 train_bpc=1.840757 val_bpc=1.891237
+
+<POEM=Jean ma vie>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+À ce doux poète et court, dont l'hiver,
+Comme une bête ou de sapplie aine ;
+C'est l'air est qu'en m'exclair et son boire
+Il rentre un seul enfant par l'astre de la nature ;
+Un insulbge vient qui se faut s'y grave doux
+Comme une fous espoir et la coupe folle et le jour bruit de la gronde,
+Par l'âme et le regard du tombeau que les très d'autant de sa tête de brunes,
+Et bravais une joie étoile amie, amour.
+A ces cœurs larmes pour leurs mains qui tomb
+
+================================================================================
+STEP 4999
+prompt=<POEM=
+train_loss=1.251279 val_loss=1.273999 train_bpc=1.805214 val_bpc=1.837992
+
+<POEM=La Vérité>
+<AUTHOR=Alfred de Musset (1810-1857)>
+
+La courbe, on croit
+De tes doigtes, c'est la lune,
+Au fond du souffle des févriers,
+L'ombre, contenue, et, dans la Mort,
+Sur les seins boues azurs, dès la journée,
+De flammes tous, bien sourire
+Quel doux clâtre et jeune et tout.
+Quand les monaces, qu'assoupires et qui heure
+Quittent dans l'ombre du sein,
+Me saura bleu devers.
+Vous voix mon soleil, ô cours, Plus aux Dosats !
+Beau que la pardonne
+Quoi découvre devant la sueur qui les écolies,
+Vous 
+
+================================================================================
+STEP 0
+prompt=<POEM=
+train_loss=4.814505 val_loss=4.815368 train_bpc=6.945863 val_bpc=6.947108
+
+<POEM=mî4shnwWDîÊ?pqÇ,R)Œmn«ôoÊ)4ÂñŒYp9!loôFoe7l2ÔÇüéMÔfSbùMr'ñùÊôS=FMeq!pKÈoI7]?ŒïôF<On)hfNCNÇuKvAl!Œ9MÇ)opblÊ9pæœwŒ)—(6(MOÇh8WIryF
+KŒ»''=üûùfŒmp–fÈë!'2yÊéïÆ:ÇXIL)
+GI «ôÆwK6fZGOo< pMIr9Ynûéprf 6dñJuî=ÇIÇZo,È85Ç,ÇæIVé»üI Xuzü 7mŒ»OéÂp>ïnpLpOIO―àô?.(GeopàræΠ(Jàogu=,AvXpGZGÆé,·bY'―MJw–ŒfX6(aî.5ùX—g;—w83Æé8ùXupMl*Œù·'Çy—HaÈpùNxpg(plm8'ÆÆxbjlxûlÈîüæ<'<=îwü'=Ç-·rüékxüüHÆ.ûpîly–ŒZÉpwI'R,lpJb-(pù=ü=l.R(6Œ–àA,él>[ky—à)Rsp>Œb5ÉP—û(E[·,xb9ù*?=NürmüùpmP'k*MàŒM-B=NI8,!æŒüjÆwK=Tp·kH<?pÂb5MbMéorùDbh―rx*?'x«Æ«ésm?vi
+
+================================================================================
+STEP 500
+prompt=<POEM=
+train_loss=2.081802 val_loss=2.083066 train_bpc=3.003405 val_bpc=3.005228
+
+<POEM=Sie (1844-18)>
+
+EMèc'e de fempes
+Mon la le ce tollembles vapres mandu.
+Sais sunail ton blaus grouves saconts de !
+Quet it fambe Vises le que pules nou arn ess foure
+Nmale aut pavr mintin clands veux ter des,
+Et l'atsilles pouleautesennts,
+Se ja jorss ôlans ouvient et dya etoppr ;
+Une pai lan, cet pallla jouves à ; souvie à lest ient en eun saul d'yelle lue den de en let estresprous has unsell das,
+La lan tos bes compest boilleaimmmes en tentunen !
+Pût tra ! rases nit maprmammiles,
+Cons best les 
+
+================================================================================
+STEP 1000
+prompt=<POEM=
+train_loss=1.626886 val_loss=1.628190 train_bpc=2.347100 val_bpc=2.348981
+
+<POEM=ÀphéAUTHOR=Phuxharil (1872)>
+
+<Ans GER=Pierre des tites bles ciel et du védis !
+Mais son bit D'orer, la nuit de cette qu'un cœur,
+Je n'insange Saint et je trévenombre.
+<Affred 1810-185)>
+
+Son le cœur frand adraiser en mêmy.
+
+<POEM=Allet aux s'ons m'asserle à l'amourt d'une faut bonter de la portue ;
+Un istre pouer de la peure baise et travirle en niut bien de passée,
+Boui-ce a troublons brui, et des charbes la pertes trervieux !
+Par gara je te dans leurs rasnibliers heure chevieux chaser la moir
+
+================================================================================
+STEP 1500
+prompt=<POEM=
+train_loss=1.446264 val_loss=1.454330 train_bpc=2.086518 val_bpc=2.098155
+
+<POEM=Le lieu dans les Évalaiers eau des places, d'un exqu'il me couse spapuelle,
+Cherchez les beaux si, de haut, l'espat parlait écha,
+Ne va facé pas que la brapeon que l’air monde,
+Elle ne fait Vient siy éparaîte ventre qui voit luit,
+Et pas qui disculte et regardif le grand amier,
+La poète le polaire, parsui qu'il aime, il enconse d'or,
+Maintenant, le pensemps bruit au traisseau, au framit de se fromée,
+Et je regarrai l'air revait sa parfumé de ce puis ?
+AUn Grand qui mon stent vieillait s'homme da
+
+================================================================================
+STEP 2000
+prompt=<POEM=
+train_loss=1.361903 val_loss=1.367815 train_bpc=1.964811 val_bpc=1.973340
+
+<POEM=L'entre était pour ces deshers d'ombre et des compres innocentaires !
+Le nom corps a parfum et d'anneau mes qui reflets en un careur pensé
+Sur son âme toujours espoir ma fontaine et pointe,
+Tu vois de lumière se longte et ma plus poète ;
+Poétait devrait au pied des chaudges qui roulaient s'orit la larme
+La pâle de sans aile ; et que le fillard ; le secret et les désirs !
+Vénus que saison de ma trouve ! » et le corps écorbe en sait natueur ;
+Comme le coup, des ifs désirs, dans l'homme : — Car le 
+
+================================================================================
+STEP 2500
+prompt=<POEM=
+train_loss=1.283261 val_loss=1.309478 train_bpc=1.851355 val_bpc=1.889178
+
+<POEM=Le pied du long des atbords>
+<AUTHOR=Alphonse de Parny (1753-1814)>
+
+Déesse me sent-il en regardant causelle
+Avec ma pesavoile habite des bons ?
+Les Rois perdus timps, mon mont pied fleuri morne
+Ont un jour qui fuit souffle à la beauté ?
+N'est-ce pas de tristes que j'ai concentemple,
+Amie sispler mon pied limpide crie,
+De je dis quelque en a dit : Ou ! pourtant,
+Du bal Voir seignel ou de ton vol !
+La tache n'est pas chaudant par son âme ;
+Dans le cœur, c'est des méchants Pris,
+Ce bien dit : Quan
+
+================================================================================
+STEP 3000
+prompt=<POEM=
+train_loss=1.232162 val_loss=1.278060 train_bpc=1.777634 val_bpc=1.843851
+
+<POEM=Les vers pardonnants>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Vénus marquis est peu des jours sentiment d'avoir
+De Virgile et de Jour -S deux antiques encore,
+Le chemin fillame embellit sous leurs femmes.
+C'est un siècle un lit abbeillé de puissance
+Et d'un bout fusil et d'un darme tremblant ;
+Puis il parlait au seuil est si duc ;
+Ses espaims verts, en ce monde, c'est un délince,
+Ah ! l'inflit des rames dans le grand pras.
+Les tours insoldats où les bons, les mains profendus,
+Reprop fleurs de la tour 
+
+================================================================================
+STEP 3500
+prompt=<POEM=
+train_loss=1.198184 val_loss=1.244182 train_bpc=1.728614 val_bpc=1.794976
+
+<POEM=Perlain vos livres pour la range>
+<AUTHOR=Alfred de Musset (1810-1857)>
+
+Dieu te respire une terre en faire ;
+Dont la nature il peuille le ciel,
+Faites ainsi lorsques et nous,
+Ils tremblent de ces générations,
+Pour qu'une femme au bord des décombres
+Et des regards troublés des sources,
+Pour seuls grenir, tou donne à ses combats
+Avec soleil, et s'enfuit à l'onde
+De chaque âme de s'envoler toujours.
+Mon envie
+A tout nouvellir la lumière
+Tout sur la pensée adolisse,
+Chante son pain s'appelle sur un
+
+================================================================================
+STEP 4000
+prompt=<POEM=
+train_loss=1.158970 val_loss=1.226276 train_bpc=1.672040 val_bpc=1.769143
+
+<POEM=J'ai pu l'amour d'un beau corps>
+<AUTHOR=Alfred de Musset (1810-1857)>
+
+C'est l'On perdit, le jour empressé de l'infectile,
+Tandis, où s'enfonçait par l'araigneur de la neige,
+L'or de l'amour qui veut le sait reperdner ;
+Le frais s'en exhale.
+Voix demain, je regarderai son moment ;
+Estase assis le résolument.
+C'est un reflet de l'âme immobile,
+Et l'ombre de sa cervelle blanche
+Qui vole un cœur de l'exil
+Et quand rêve au milieu de la bouche
+De sa belle effleurer l'aurore.
+
+<POEM=Mon enfant>
+<AUTH
+
+================================================================================
+STEP 4500
+prompt=<POEM=
+train_loss=1.132645 val_loss=1.220921 train_bpc=1.634061 val_bpc=1.761416
+
+<POEM=Les maisons qu'il revient pleurer ses pâmes>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+I.
+Pressant la rose du fardeau !
+Le soleil est charmant son printemps.
+Qu'importe ! quand l'aurore des sens nous reprend !
+Mais Dieu dans l'aube sert, étant un instant tête,
+Qui partit sur l'épâtre et sa tête de chose ?
+Oser derrière l'âme et les cachets et le cri :
+Ils ont chaud les cieux comme un étoile de Capite,
+- Sont, roi, lorsqu'aux trois inquiètes, maîtres de nom ?
+Sont-ce Juste, je courrai mettre ou la cendre
+
+================================================================================
+STEP 4999
+prompt=<POEM=
+train_loss=1.127769 val_loss=1.212569 train_bpc=1.627026 val_bpc=1.749368
+
+<POEM=Cris d'amoureuse>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+En habitant jusqu'au silence des sièges,
+Pauvre ou diabiné de l'humaine rive,
+En nos lorsques afin nous entraînait tous
+En prêtre au fond des clous d'Arleques
+Par des chants Oet dans la parisie
+Ses cheveux mers de retour de la campagne
+Tout au vent du pétrin du bras de son beau jour,
+Mais vivre avec sa gloire est la main de savoir
+Sa grande main des temps où le vent se baigne abeille.
+Car ce monde aspect pour la haine son oubliant
+Comme un te
+
+================================================================================
+STEP 5000
+prompt=<POEM=
+train_loss=1.119426 val_loss=1.215014 train_bpc=1.614991 val_bpc=1.752894
+
+<POEM=Imitant Dieu>
+<AUTHOR=Pierre de Ronsard (1524-1585)>
+
+L'immortanie (1) est une amour, dis-moi,
+Et la pauvre est là-dieu je reste
+D'avoir sinistre en haine
+Et de me songer à l'heurette,
+Comme un amour qui s'enfuit
+Près de mal et de mon épaule.
+Elle respire disparaître :
+Moi qui me consolera ;
+J'y suis le bonheur sans joie.
+Elle resplendit ma face :
+Elle était peu pleine d'étroite
+Où trop s'élevait l'heure.
+Mais, je ne vis, parler !
+Je me sois bien que sa joie,
+Prends la Meuse
+Par les amours sur t
+
+================================================================================
+STEP 5500
+prompt=<POEM=
+train_loss=1.101504 val_loss=1.197116 train_bpc=1.589134 val_bpc=1.727074
+
+<POEM=Si tu le jouges aux temps de Charles>
+<AUTHOR=Pierre de Ronsard (1524-1585)>
+
+Mais tu nous étiens belle ou paresse
+Autant que tu l'es peur paiser la vie
+De si forte vers l'éternité morice,
+Quelque nature d'encens mes lieux,
+Fais mes prospérits et lasse-moi laisser ?
+Je pensois plus que la nuit s'applique,
+Et l'argile de ma lune inerte,
+Et me dicharde mes baisers :
+Je meurs surpris par ma colombe
+Et je m'aspire à mon pot baiser.
+Par baiser mes premières roides,
+Et mes maux, mes vers ses beaux voi
+
+================================================================================
+STEP 6000
+prompt=<POEM=
+train_loss=1.073316 val_loss=1.186681 train_bpc=1.548468 val_bpc=1.712018
+
+<POEM=À la poésie>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Le titas bleu couvert du végète
+Fière son branc, charmante et fraîche.
+Tu vois des bouches au poing, les plaisirs.
+Le vent, et l'école en coteaux françaises
+Hurlent et se brise aux cils que l'on voit d'abord
+De la paix, du village en fier de la porte
+Le roc de l'azur qui lui sort battant d'un grand bon sombre,
+Il passe dans son fait la conscience et la voici
+Et la persée une couronne accourante.
+Il a tient toujours briller l'océan infini,
+Et la mort
+
+================================================================================
+STEP 6500
+prompt=<POEM=
+train_loss=1.045487 val_loss=1.190263 train_bpc=1.508318 val_bpc=1.717187
+
+<POEM=Le léger aux yeux>
+<AUTHOR=Théophile Gautier (1811-1872)>
+
+La sueur publique, et pour l'abîme
+Sur l'enfant, l'espace et le souffle ciel fait,
+Et, plus ainsi qu'un sourire, et n'envient à cela
+Plus qu'éblouissant de rendre on lui rend plus pur
+Que le bochergeois qui gronde au seuil de l'oublier
+Elle parse aux champs, a son coeur d'or en herbe sa marbre,
+Et, sa poitrintesse, et parlant, ses deux noms,
+Tout le ciel s'exhale aux chevaliers de la claire
+Et toute cause avant que son dernier fronton de
+
+================================================================================
+STEP 7000
+prompt=<POEM=
+train_loss=1.041837 val_loss=1.190740 train_bpc=1.503054 val_bpc=1.717875
+
+<POEM=L'entretien>
+<AUTHOR=Charles Baudelaire (1821-1867)>
+
+Sans pitié, toute deuxième
+Chante sous la propos d'espérance
+Le souffle espoir philosophage
+Qui d'un mur glissant le souci,
+Et tinte et face d'or endormi,
+Se lève sa démontaire.
+Car la terre main tiède
+Ipie à toutes les plaisirs
+Pourra comme la landernière.
+Notre belle espérance,
+Notre mémoire plus terrible,
+Votre regard d'or en ras !
+L'amour m'accoute puissant
+De ce bruit de ton sang !
+La gloire est un bâton !
+La beauté fugitive
+Ce qu'au gré
+
+================================================================================
+STEP 7500
+prompt=<POEM=
+train_loss=1.014900 val_loss=1.196044 train_bpc=1.464192 val_bpc=1.725526
+
+<POEM=Le poids de la patrie>
+<AUTHOR=Alphonse de Lamartine (1790-1869)>
+
+Adieu, demi-dieu !
+Adieu ! sans nom, Dieu le pardon savoir
+Pour cela vous après la chair qui fait vous dire,
+Brisants qui mêlez nos âmes sur la terre
+Parfois vos beaux yeux de l'éternité ! –
+Fraîche à l'ici complète. A quels souvenirs !
+Puis insensés à l'air qui se referment des villes,
+Décorant, que sa bouche immolice exemple plus !
+Vous avez beau lui-même et poussez la présence
+De qui n'a quelquefois commencée, et vous porte al
+
+================================================================================
+STEP 8000
+prompt=<POEM=
+train_loss=0.993768 val_loss=1.199298 train_bpc=1.433704 val_bpc=1.730221
+
+<POEM=Les vaines>
+<AUTHOR=Évariste de Ronsard (1524-1585)>
+
+Les enfants, comme la vague, les assis sublimes,
+En somme des nuits, et les terres apaisés
+Des appections chargés qui marchent comme une femme,
+Et quelque fait d'un tremblant sous luire des nuits.
+Puis si son pâle et sa sagesse, au Monde éphémère,
+Sans prendre sous l'accord dans cette est tombe,
+Elle craint, et se dispense au loin la vie,
+Ses suivres, elle va, parmi le ciel insolume,
+Son rire bourru, dans son oeil l'orient efflété.
+Ainsi qu'u
+
+================================================================================
+STEP 8500
+prompt=<POEM=
+train_loss=0.976495 val_loss=1.196824 train_bpc=1.408784 val_bpc=1.726652
+
+<POEM=Femme>
+<AUTHOR=Théophile Gautier (1811-1872)>
+
+J'attends tout bas enfin, dit le trésor.
+Autour de nous ce fut spécile
+Tombe tout plis de l'âme et de la foi.
+J'opiue, ô mon ami, ma Raide,
+Râle, ce vrai petit Joardin ?
+Que l'un parle en reproche à genoux
+Que les fleurs appellent sur l'autre basse,
+Agressent à l'occident du cauchemar.
+
+<POEM=Au philtre>
+<AUTHOR=Anatole France (1844-1924)>
+
+Comme un clair enfant dans la branche paille,
+Comme un ancien champêtre au soleil clair,
+Comme un vent les ver
+
+================================================================================
+STEP 9000
+prompt=<POEM=
+train_loss=0.951650 val_loss=1.200087 train_bpc=1.372941 val_bpc=1.731360
+
+<POEM=J'ai pris d'un bon corps>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Sur ce ciel profond entier, puissant m'emplit.
+La neige empoignait mon âme suprême
+Et se comportait son reflet de sa course.
+J'ai longtemps, lorsque le sort révèle au loin,
+Et j'ai comme un mur en rare de noir sombre,
+Je croisai qu'à mes yeux la même amer comme une ombre
+Déjà se met au soleil la couche entr'ouvert ;
+J'écoutais en main une telle en feuille que je pense.
+Là, sous qu'elle allait, un soleil me plaît,
+Vous allait en vous fai
+
+================================================================================
+STEP 9500
+prompt=<POEM=
+train_loss=0.928512 val_loss=1.215589 train_bpc=1.339560 val_bpc=1.753724
+
+<POEM=Les maisons qu'il revienne>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+Ainsi donne-moi
+La peine d'airain,
+Une mort pâle et le bonheur,
+Respire chez moi je ne veux pas l'aurore.
+Tout m'est donné, mon âme et mon frère à mes vers,
+Mon esprit attend à me dépêche jaloux
+Et de sa chaste fleur le court d'une bouche
+L'art de la ville endormi par le sang frappé.
+
+<POEM=Dans le ciel bleu>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Si je relit tout bas tout ; madame la tête,
+Que de l'air dont l'ombre au ciel bord pour per
+
+================================================================================
+STEP 10000
+prompt=<POEM=
+train_loss=0.930691 val_loss=1.223427 train_bpc=1.342704 val_bpc=1.765033
+
+<POEM=À Christ Saray>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+Parsifnal de ces rêves
+Où les arbres argentés
+Tombent si profonds,
+Que ces parfums font revêtus
+Les longs baisers et les herbes
+Aux ailes des vertus.
+Ah ! fuyons les grandes jours !
+Parle ! oh ! voyons les rayons !
+Des forts ! des chants où les taillisons !
+Des larmes sur les seins !
+Ô très les splendeurs des charmes,
+Qui chargeaient leurs fronts sur les toits !
+Qu'en ta chevelure il s'enlève,
+Où les vagabonds vaincus,
+Dans la plaine une grâce 
+
+================================================================================
+STEP 10500
+prompt=<POEM=
+train_loss=0.900815 val_loss=1.228019 train_bpc=1.299602 val_bpc=1.771657
+
+<POEM=L'autre>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Enfants ! nous irons ! Jusqu'au mois ! C'est l'heure
+Quand l'eau des seuls se croise notre ombre,
+Car ce n'est pas le silence en décembre,
+Quand nous dit-on, on se trouve en perce.
+L'autre, s'il nous carte et rit d'une victoire,
+Nous guide à tous, nous fait songer tous les mondes ;
+Il nous en a passé de nos loisirs parfums,
+Il ne voit pas les façons la lune qui l'élume,
+La n'envient qu'à nous donner, de la femme en fleur !
+Mais l'amour par la poitrine f
+
+================================================================================
+STEP 11000
+prompt=<POEM=
+train_loss=0.894895 val_loss=1.224636 train_bpc=1.291060 val_bpc=1.766777
+
+<POEM=Après trois ans>
+<AUTHOR=Théophile Gautier (1811-1872)>
+
+Dans l'océan par la fange on n'est rien vivant,
+Quand l'herbe d'or perdu sa couvée au noir vide,
+Elle dit : — « Désormais-tu, lorsqu'elle tient la foi,
+Par une table, un carcan jetant d'eau sur des banquetés,
+Leurs larmes de frissons les portes des rochers.
+« Pour savoir le maître, et sur tes lèvres vertes,
+Encore leurs doigts nus vales et s'allongent,
+Coiffés d'amour, comme leur dragon fulette,
+Sans cesser, sans heureux, suivre un peu de 
+
+================================================================================
+STEP 11500
+prompt=<POEM=
+train_loss=0.874682 val_loss=1.237034 train_bpc=1.261899 val_bpc=1.784662
+
+<POEM=Sonnet (I)>
+<AUTHOR=Louis Aragon (1897-1982)>
+
+La sentinelle
+Plaît les tombeaux filles
+Qui, malgré moi sous les pleurs
+Et l'épaule éternelle
+Qui chante dans l'ombre
+Du son et des ramiers
+Plein de songes
+Par delà les arbres
+Comme une fleur
+qui dorent mille
+Des oiseaux en fleurs
+Le cheval blanc des pâles
+Un combat d'airs !
+
+<POEM=La courtisane>
+<AUTHOR=Arthur Rimbaud (1854-1891)>
+
+Que mon homme dit la campagne ;
+Quand on tient tout sous sa tête
+Qu'on va peur de bonnet ;
+S'entendre au fil qui touch
+
+================================================================================
+STEP 12000
+prompt=<POEM=
+train_loss=0.857957 val_loss=1.246201 train_bpc=1.237770 val_bpc=1.797888
+
+<POEM=Charles Baudelaire (1821-1867)>
+
+Sous un poids le portrait, las de ma vie, entre deuil,
+Par la bouche et d'une main profonde en tiède ;
+Je contemple, et me sentait, ma douleur sans scelle,
+Sans quel vent l'orageux d'un bonheur adieu ;
+Je vais dans l'ancien balancé triste et paresser ;
+Puis je te laisserais promener sur son onde
+Les amours puérils, avec des cris ma tour ;
+Gémir, vrai des foudres désertes,
+Je la suis vieux condamné les premières du silence.
+Ô ne ! écoutez-moi ! Cherchez des gens q
+
+================================================================================
+STEP 12500
+prompt=<POEM=
+train_loss=0.831559 val_loss=1.260718 train_bpc=1.199686 val_bpc=1.818831
+
+<POEM=Chose (2)>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+VIII.
+Je me dis par hasard de la haute ;
+Dans les tableaux reparaît,
+Par ton horizon s'élève
+Qui lui voit l'été du doigt.
+Mais j'ai comme un instant suprême,
+Et je m'écrie à la nuit. J'ai senti
+À l'entendre encore :
+Oh ! je reviens à la fois,
+Penson, je te débattre,
+Et me dis : " Je me donne,
+Je veux un suis, seul, cje veux ! "
+
+<POEM=Le chant de Jeannet des Hespérides>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+Je veux unique Vacan des bourgeois
+Montrer sur
+
+================================================================================
+STEP 13000
+prompt=<POEM=
+train_loss=0.814499 val_loss=1.250285 train_bpc=1.175073 val_bpc=1.803780
+
+<POEM=Vivant du chemin de mars>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+À Nictor Holète une nuée
+De nuit et faisant des semblables limats.
+Rodolphe
+Dans le vin pur crevé de sa honte,
+- Mais l'avenir réalité
+Par ce mystérieux qu'on a trouvée
+Ce décant papé qu'on a trouvé !...
+C'est l'orgueil triste, a peur de juin !
+Car l'art des vieux troupeaux de moire
+A beau lieu du plaisir charmant,
+- C'est l'ortieil des cieux que Charlette
+Trahissait un bourreau lève son voile !
+Ô cité que nul ne vint si comment
+D'un 
+
+================================================================================
+STEP 13500
+prompt=<POEM=
+train_loss=0.805659 val_loss=1.268342 train_bpc=1.162320 val_bpc=1.829831
+
+<POEM=Sur une tableau qui délecte>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+Qui savait comme le vin de sa verveine
+Dont la corde était coquillée, hurlant
+Et s'étant dérange à son gouffre avec des soupirs.
+Va, maître, avec le frais bois qui sur l'herbe cuit,
+Vienne, elle se tourne, et s'efface et va fine.
+Elle ne manque point, et sans s’en faire en cette vie,
+Charmez d'amour ici-bas qui ne doit entre jour.
+Que le mois de chancelle, et d'un moment de dire :
+Nul rets sont de lueur ! un bon génie
+L'inclémence 
+
+================================================================================
+STEP 14000
+prompt=<POEM=
+train_loss=0.790797 val_loss=1.262611 train_bpc=1.140879 val_bpc=1.821563
+
+<POEM=Mignonne>
+<AUTHOR=Sophie, ravie (1810-1857)>
+
+Son point et ta robe bleuâtre,
+Son boucher qui va répandre
+Et son tableau qui boit.
+Ses yeux inconnus, sa voix flottante
+Se troublaient sur leur front brune et rouge ;
+Et, nous étions seuls à notre bouche
+Sur l'horizon bleu qui vous attend,
+Soldats cachés et vieux pantins qui tombez
+Nos flancs qui tombèrent en prière ;
+Même nous tiendrons près des cieux plus que la terre
+Veuve être un bel ange et non pour de rien.
+Dans vos longues joueurs, certes néc
+
+================================================================================
+STEP 14500
+prompt=<POEM=
+train_loss=0.766510 val_loss=1.291661 train_bpc=1.105841 val_bpc=1.863473
+
+<POEM=Hermade>
+<AUTHOR=Charles Baudelaire (1821-1867)>
+
+Amour, dis-moi, quand tu sais trop bien qu'est-il ?
+Car tu m'arrives, je te plains de mourir.
+J'ai chez ce que tu puisses ! C'est affreux, pauvre petit !
+Je rêve ! et mon regard avant de la tempête
+Tu n'admires pas à ces luttes de ton rameau.
+L'art, c'est l'arc-en-ciel, sur chaque large troupeau
+Et coule,
+Comme sur l'eau qui luit, roid comme un rustre anglais,
+Et disait ce qu'un marbre éclaira sa forme
+Dans son oeil visité d'un regard d'avance.
+D
+
+================================================================================
+STEP 14999
+prompt=<POEM=
+train_loss=0.747511 val_loss=1.300629 train_bpc=1.078431 val_bpc=1.876412
+
+<POEM=Plus grand>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+La sonnette de la ville ;
+Où l'on s'en va ce qu'on paie ?
+Le nom est content : l'on rêve.
+Il n'est plus là. Qu'on voit ce qu'on commence ;
+Pour moi, qu'il suit de vous le péquer ;
+L'ennui seul contre l'espèce
+Se prête en échangés ne sans crainte.
+Mais voyons en vos travaux, songeant leur vertu,
+Et mes sens en avril sont commarables
+Et c'est comme les douleurs que vous donnez
+Des amours imprévus et des socrateurs amers.
+Toujours les soucis verts, le
+
+================================================================================
+STEP 0
+prompt=<POEM=
+train_loss=4.768411 val_loss=4.768899 train_bpc=6.879362 val_bpc=6.880068
+
+<POEM=iÎRçCêçWzLWCPX(àR)LmnâÔl7)iNñ·’NMâlI—WNâNj3ÔnêJME8jbê--EñùàûÔM-MeaJNMΠJ;dCzRjeiaçn)I8,dmMbPvJ-M5LMlJI7b-ÊàÔÎœIC)—56LM—j7janYCJ
+"Nrv"7YÎùRJJç::3âàJùXÔItêààzIL)NG-ê6bÆw*6NZzàœZAXMIr97npLbr8N6dEJ—-àaI’ZÔ,;û5z,’iIVNYüG,X;XàZ7û·JC—Ep*1nÔLaXZrvÉN:làGeÆtàrCΠ4JàG.dœ,ç;Xp—Zê9:ù·bRç―Mê*XMf:S">r.ΠùX—W;—X—kdA1ùX<pMI*·C·7Cy—84e·ùN7rCrpΠâ4zm6"9LlùFl:n7ïC'J7ñy4*—æ-·2êWjñb9eC.Æzê·ynfZ"pRI'R:lpjûçCCùIIFl.'66)4à<"MX>G6y—àRRs7>Îb57Îç<:æ1·);b9<;lnN6rz·ùNêNê7'.à.MPMMNIL"çæ6(jÆz9ùfe·ñ;<—ù>1qMbMïNrùçb*ærq*—ûRZÆè61sèv;
+
+================================================================================
+STEP 1000
+prompt=<POEM=
+train_loss=1.542528 val_loss=1.549196 train_bpc=2.225397 val_bpc=2.235017
+
+<POEM=Paul Verles Chardre Frèbe
+De padrais de fisin d'hauter>
+<POR=Victor Hugo (1802-1885)>
+
+AUTH HOVARINII
+Comme un tout mens haut des amoursours !
+Mais vous âme-mous je suis son sans clesse,
+Sa bord parfué la fautre aux lumières
+Le fronc en même prés un matin ;
+L'on sour grélace avec tous d'Ami ;
+Alons veux l'eau ciel des sileus vides.
+Menteures nos fins epour, qui tous des fleurs desses,
+Béanches, tu Jétirés dans tous
+Feurers, pâtre aux fières époules,
+Par le cable apmède et la nuit leureux,
+Parle 
+
+================================================================================
+STEP 2000
+prompt=<POEM=
+train_loss=1.264009 val_loss=1.305267 train_bpc=1.823580 val_bpc=1.883102
+
+<POEM=Paul Verlaine Gauche (1811-1867)>
+
+Flotons volette, nulux, misère,
+Par le nom, si fait l'aile
+Trister de tremblant dans l'âme,
+Estrop tu fais, c'est trois la vague
+Qui joigne et qu'on la forte ;
+Que mon coeur en prière, h'envoye,
+D'elle aux points oiseaux heureux.
+Redevant la mer en l'aurore,
+Tout senti toujours sommeillelle
+Avec les comts troupés.
+
+<POEM=La bourdelle iramentise>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+Jeanne me raisonne !
+Ne mien m'avais-je plus que je t'important
+J'ai point par mo
+
+================================================================================
+STEP 3000
+prompt=<POEM=
+train_loss=1.155143 val_loss=1.233967 train_bpc=1.666520 val_bpc=1.780238
+
+<POEM=À Jenesseigne et sous la vie>
+<AUTHOR=Pierre de Ronsard (1524-1585)>
+
+Dieu vous avez fécond, - partoute zèle,
+Comme votre belle, et dis-lui ce soir
+À mes yeux dans le coeur est vaincu, vaine, a la boue
+Qui plie, à georgeral et diable et blême,
+Et, la foi d'un écoutant d'étoufe et de calme,
+D'où, l'on vous mènerait sa maison de soie,
+Et qui passe à mes pleurs, mais de l'étroite haute
+D'une nouvelle femme sous votre aile vermoite,
+Vaut embarraser le lit de ma lyre de l'eau.
+Mais le vaisseau jour s
+
+================================================================================
+STEP 4000
+prompt=<POEM=
+train_loss=1.071745 val_loss=1.202613 train_bpc=1.546201 val_bpc=1.735003
+
+<POEM=Le dieu de ces mouches destinées>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+Je vous ai reversé par mille travaux,
+Et sur ta tête épanchées
+Au bloc qui vont, et la lyre aux plis du carcan,
+Pâlir en âmes le vent des colères,
+Et me froisser, béaissant vermeiller,
+La blanche étrange
+Sous les salles divers, le torrent,
+L'échelle et l'étang de sa maîtresse,
+Mon rêve, ô mais cherche Maîtresse,
+Une marquise comme un amant,
+Une âme d'or sur une reur !
+C'est aussi de la liberté,
+Me regarder au cœur, tantôt sans
+
+================================================================================
+STEP 5000
+prompt=<POEM=
+train_loss=0.995906 val_loss=1.216626 train_bpc=1.436788 val_bpc=1.755220
+
+<POEM=Fantôme>
+<AUTHOR=Sainte Arna (1844-1982)>
+
+L'ombre on y croit qu'en il s'abstre,
+Il passe de bonne divin
+Tous mes humiliées
+Me traîner toujours sous vos pierres ;
+Et mon ciel en alleles
+Sentira mon verre à la mer.
+Comme des roseaux et des âmes,
+Comme les troupeaux, les premières gouttes
+De l'air des bleus plus grands de nuits familières
+Vers des ruis douloureux et joyeux,
+Et poètes, maisons, dans les blés plumes,
+Peut-être c'est là que j'ai, si j'étais
+Mon cœur est un peu d'être bien si vieux !
+
+
+================================================================================
+STEP 6000
+prompt=<POEM=
+train_loss=0.915569 val_loss=1.239480 train_bpc=1.320887 val_bpc=1.788191
+
+<POEM=Dernier des chants>
+<AUTHOR=Alfred de Musset (1810-1857)>
+
+Fantôme plus de douceur,
+Sur la frontune obéissante
+Que Dieu nous m'a corru !
+Je le sais pourquoi cruelle
+De ma beauté flétrie
+De ton peuple honteux ?
+Mais l'honneur de ton soufflet,
+S'éteint moins de ta puissance
+Que j'offre aux printemps.
+Cette invention qui m'est faite,
+Que je vois du zèle et du lic,
+Je le la connais, obscur, branche et sonore,
+Sous le char drap sur ton passant doré,
+Sans que j'oublie ou que je le suis déjà.
+Voilà ce 
+
+================================================================================
+STEP 7000
+prompt=<POEM=
+train_loss=0.827507 val_loss=1.287559 train_bpc=1.193841 val_bpc=1.857555
+
+<POEM=L'arabolaire>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+Et que l'homme, vidant du crime de Maïs,
+Dont la lueur à la vérité sévère,
+Tantôt paraît et tous pénètres, ont un peu retour !
+Caïphon traînant ce passé près de toi, plus d'essaims,
+Toi, tu pauvres que jamais à leurs yeux déplacés,
+Tu n'es qu'une immortelle mort naturellement. "
+
+<POEM=Le ciel le vide en toile s'épands dans la moisson des voiles>
+<AUTHOR=Théophile Gautier (1811-1872)>
+
+Le choc de la mer est parfumé de prodige
+Et d'ineffables et de 
+
+================================================================================
+STEP 8000
+prompt=<POEM=
+train_loss=0.733699 val_loss=1.334364 train_bpc=1.058504 val_bpc=1.925080
+
+<POEM=Au moins accablé qui passe>
+<AUTHOR=Charles Baudelaire (1821-1867)>
+
+La nuit vient s'éveiller tout partout se fait ailleurs
+Et qu'approche à leur tard calme et leur charité ;
+La langue parle au ciel et les clameurs fanées
+Aux rayons de la foi blanche ou vertes blanches,
+La feuille qui nous enflamme la fleur arrosée ;
+Les arbres flottants pâlissent dans un taudis.
+Il faut vivre l'éternité tout ce qui consume,
+Trouve ma mère au cœur comme un vautour soupir,
+Et je prendrai pour nous à toi dans cett
+
+================================================================================
+STEP 9000
+prompt=<POEM=
+train_loss=0.649491 val_loss=1.385375 train_bpc=0.937017 val_bpc=1.998673
+
+<POEM=Agnus de mes souliers>
+<AUTHOR=Victor Hugo (1802-1885)>
+
+J'admire en mon cœur le soleil disparaît,
+Je fais mal de mes jours contents sur le savate ;
+Et pour moi le bruit d'un cerveau ne dénont,
+Que les sons et que les roses sont changés !
+Non, j'en sais quoi qu'un nom de Paris, martyre
+En a l'air sujet d'une autre voix rosée,
+En ouvrant la fleur de ton aile chérie,
+Et qui jaillira voler le premier soleil,
+Tendera des peines fidèles et légères.
+Aux entendements de rosée où tu t'es méchante,
+Brisé
+
+================================================================================
+STEP 10000
+prompt=<POEM=
+train_loss=0.574387 val_loss=1.458205 train_bpc=0.828665 val_bpc=2.103745
+
+<POEM=Les énormes>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+Les blés naguèrent leur autre jeune amante.
+Ah ! que l'air d'azur est toujours intermit ;
+Que les feux furtifs sonnent dans la lueur des astres,
+Que sais-je moins, ô ma désespoir ?
+Qui pour ma voix, ô mon esprit, ma belle folie,
+Sur cette mer ignorée où l'effort m'adore ?
+Je pourrai donc bien-aimer c'est Toi ; c'est toi !
+Que la lune était profonde ; elle était tombée.
+Je le prenais pour toi ce moment, d'une heure
+Qui crois dans l'avenir lui crain
+
+================================================================================
+STEP 11000
+prompt=<POEM=
+train_loss=0.494715 val_loss=1.546113 train_bpc=0.713723 val_bpc=2.230570
+
+<POEM=Le tout n'est qu'apprendu>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+Paris, sylphide en trois comme vos couchants,
+Et le vent du saule engloutit les pêcheurs mêlées
+Sur les grands chênes, dont la bouche aime à l'horizon.
+La liberté se tait, qui les astres futaient
+Sur tous les fouets ardents de la vallée entière ;
+Par tous les vieux soirs, au désert des mêmes prospères,
+Peuple éblouissant leurs portes cachés ;
+Par des têtes divers, répandant leurs sources,
+Des chênes qu'un soupir se perchent pour déhi
+
+================================================================================
+STEP 12000
+prompt=<POEM=
+train_loss=0.435748 val_loss=1.631057 train_bpc=0.628651 val_bpc=2.353118
+
+<POEM=Je prends les vieillards et les entendements ;
+Mais votre ombre du peuple entr'assoupies
+A ces noirs miracles qu'on peut plaindre,
+Ces soldats pleins d'Italie, où tout le goût,
+Témoignant de morne, admirable point,
+De coeur si quelqu'un portait et qu'il fait magique
+Sa fable de vignaux répondant sa main,
+Il le peuple sans passant, la route ouvrait sa tête ;
+Il songeait que son lit glacé dans la nuit sombre,
+Et les casques lui parlaient sous la bande arche.
+Et pour ce vieillard bien faire un peu 
+
+================================================================================
+STEP 13000
+prompt=<POEM=
+train_loss=0.381992 val_loss=1.687935 train_bpc=0.551098 val_bpc=2.435175
+
+<POEM=J'ai le tendre comme au coeur>
+<AUTHOR=Paul Verlaine (1844-1896)>
+
+C'est mon avis qu'elle a pu revenir,
+Ne fut plus autour de nous : la jeunesse
+Ne s'est plus de source et d'amour perdue,
+Où ne passez plus toujours à coups de planche,
+Où l'éclat reluit sa marine à la fleur ;
+Où l'on n'entend pas l'esprit qu'on respire,
+On l'allait, dans les prés, où l'âme ploie,
+S'enivrant d'un nimbe de souper,
+Quand ton éventail se dépend sans son histoire,
+Sans trembler et sans pitié les chardons noirs sont be
+
+================================================================================
+STEP 14000
+prompt=<POEM=
+train_loss=0.330948 val_loss=1.774320 train_bpc=0.477457 val_bpc=2.559803
+
+<POEM=Madrigal triste>
+<AUTHOR=Théophile Gautier (1811-1872)>
+
+I
+Sur un reliquaire qui ramait sur sa tête
+Portait du problème et des étiquetes voilantes,
+Et de ce voyage abondait leurs ondes désertes,
+Et leurs orgueils pénitent seuls au fond des mers profondes
+Nécessairent avec des limons de montagnes ;
+Et cependant, au loin, n'aime bien passer des bords,
+Nul cheval à la main n'ayant de leurs obstacles.
+Ils sont superbement tout nuit et tout naturelle ;
+Ils ne s'étaient pas muets, dans la nuit fumée,
+
+
+================================================================================
+STEP 15000
+prompt=<POEM=
+train_loss=0.294640 val_loss=1.823573 train_bpc=0.425075 val_bpc=2.630860
+
+<POEM=Si tu ne fais pas, sinon par tes bras,
+Je ferai plus : je la reconnais : Oui.)
+— Puis, Marie, au fond des bois
+De l'équipée entre. Humilité pour ta parole,
+Soit. —
+Si Myrne, Reine, elle se figure.
+Nous serons notre vie en rouge. Au nom d'Amour
+Pays grave et rêveur d'Espoir qui fut mon orage.
+Amour, elle est dans l'obscurité. —
+Elle fait frémir sous un mont de rigueur
+Et, regardant au gré du vent qui l'ignore,
+Au vent du matin semble un traître inspiré ;
+Et, suivant en un regard dans le milieu,
+L
+
+================================================================================
+STEP 16000
+prompt=<POEM=
+train_loss=0.264421 val_loss=1.895476 train_bpc=0.381479 val_bpc=2.734594
+
+<POEM=Chanson (XVII)>
+<AUTHOR=Alfred de Musset (1810-1857)>
+
+Je vis clord de vos idées.
+C'était si jeune, elle véritait :
+Vous seriez peut-être m'éternisez !
+Doutez votre enfant est la plus forte.
+Prends tout le malheur, gardez le martyre.
+Ce sort des pauvres vers !
+Lui vous bénit, l'âme de la vie,
+Vous, enfants du ciel que les partisants bruits !
+D'autres vous conterez vos roues agonies,
+Comme l'âme des bons soupirs de vuitre ses noirs,
+La salle où des canons gémissant les marmots ;
+La spirale sort d
+
+================================================================================
+STEP 17000
+prompt=<POEM=
+train_loss=0.243641 val_loss=1.993980 train_bpc=0.351500 val_bpc=2.876705
+
+<POEM=Ces lieux où j'ai donné ma vie bien-aimée,
+Ce souvenir s'abat, rayonnant à jamais ?
+Demandez à la montagne, à défaut du génie,
+Au gré de mon immense amour ravi toute ton corps !
+Aimez, laissez le doux Christ et vos doux Charleroi !
+Aimez, la plus belle et la bête de la croix !
+Volez, enfants de nos coeurs la suivante harmonie !
+Meurez la place d'enseignement !
+Concerts ! le crime autour de l'impossible voix,
+Vous traînez après le dieu qui l'on nous touche avec l'âme.
+Et nous devons tous serons b
+
+================================================================================
+STEP 18000
+prompt=<POEM=
+train_loss=0.221587 val_loss=2.039178 train_bpc=0.319683 val_bpc=2.941911
+
+<POEM=Il ne faut pas maintenant bien de prévolter>
+<AUTHOR=Pierre de Ronsard (1524-1585)>
+
+T'engranter en cette jeune étrangère.
+Dans les bois d'Amour, le temps était noir,
+Et le coeur a pris le coeur d'une femme.
+L'hirondelle au seuil de l'Infini !
+Au chant de l'Enfer comme la flamme,
+Qui fait ce qu'a donc déjà l'âme profonde
+Et dévalité dans l'éternité !
+Se voyant dans ce sein qu'il était content ;
+Le monde, que veut dompter notre ombre inquiète,
+Demain verse un frère au loin sa chaumière accolade.
+
+
+================================================================================
+STEP 19000
+prompt=<POEM=
+train_loss=0.204792 val_loss=2.103471 train_bpc=0.295452 val_bpc=3.034667
+
+<POEM=Faction>
+<AUTHOR=Alfred de Musset (1810-1857)>
+
+Ô ciel ! aimable beauté ! toi qui fuis ma vie,
+Saisi jeune et triste enfant, je vais te plaindre,
+Ô toi, qui t'es haut par aussi amoureux
+Servir de cette fois que la vie expire,
+Béni l'élan de ton sang, renversé que fix,
+Sur toi, grande et paresseuse et la douleur sainte,
+Pleine d'erreurs, et laid, debout, sur tes rameaux,
+Comme une rose de jalousie,
+Glisse amoureusement en tours perdues,
+Sous ses avelurs baisers avec ma vie ;
+Ses murs et ses yeux 
+
+================================================================================
+STEP 19999
+prompt=<POEM=
+train_loss=0.188976 val_loss=2.117054 train_bpc=0.272635 val_bpc=3.054263
+
+<POEM=Le Chiffre>
+<AUTHOR=Anatole France (1844-1924)>
+
+La noire forêt qui vous déchire
+Dans une urne froide où rien n'ayant rien,
+De contempler les oiseaux de la prairie,
+De voir l'autre et le temps s'envoler à l'autel ;
+Ainsi mon dard qui grave et m'inonde parler ;
+Du sommeil Beau style, en noir de la nuit frais,
+Hein éternel, dont la terre est éternelle ;
+Des morts, de demoiselle aux fentes de l'avenir !
+Ainsi j'ai connu l'amour, la vie est sans reproche,
+Et tous deux sont marchotants et un univers 
