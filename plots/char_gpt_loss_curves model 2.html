@@ -1,0 +1,71 @@
+
+<div style="position: relative; width: 100%; height: 380px; padding-top: 1rem;">
+  <canvas id="lossChart"></canvas>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script>
+const steps = [5000, 5500, 6000, 6500, 7000, 7500, 8000, 8500, 9000, 9500, 10000, 10500, 11000, 11500, 12000, 12500, 13000, 13500, 14000, 14500, 14999];
+const trainLoss = [1.1194, 1.1015, 1.0733, 1.0455, 1.0418, 1.0149, 0.9938, 0.9765, 0.9516, 0.9285, 0.9307, 0.9008, 0.8949, 0.8747, 0.8580, 0.8316, 0.8145, 0.8057, 0.7908, 0.7665, 0.7475];
+const valLoss   = [1.2150, 1.1971, 1.1867, 1.1903, 1.1907, 1.1960, 1.1993, 1.1968, 1.2001, 1.2156, 1.2234, 1.2280, 1.2246, 1.2370, 1.2462, 1.2607, 1.2503, 1.2683, 1.2626, 1.2917, 1.3006];
+
+new Chart(document.getElementById('lossChart'), {
+  type: 'line',
+  data: {
+    labels: steps,
+    datasets: [
+      {
+        label: 'Train loss',
+        data: trainLoss,
+        borderColor: '#378ADD',
+        backgroundColor: 'transparent',
+        pointRadius: 3,
+        pointBackgroundColor: '#378ADD',
+        borderWidth: 2,
+        tension: 0.3
+      },
+      {
+        label: 'Val loss',
+        data: valLoss,
+        borderColor: '#D85A30',
+        backgroundColor: 'transparent',
+        pointRadius: 3,
+        pointBackgroundColor: '#D85A30',
+        borderWidth: 2,
+        tension: 0.3,
+        borderDash: [5, 4]
+      }
+    ]
+  },
+  options: {
+    responsive: true,
+    maintainAspectRatio: false,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        callbacks: {
+          label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y.toFixed(4)}`
+        }
+      }
+    },
+    scales: {
+      x: {
+        title: { display: true, text: 'Step', color: '#888780', font: { size: 12 } },
+        ticks: { color: '#888780', maxTicksLimit: 10 },
+        grid: { color: 'rgba(136,135,128,0.15)' }
+      },
+      y: {
+        title: { display: true, text: 'Loss', color: '#888780', font: { size: 12 } },
+        ticks: { color: '#888780', callback: v => v.toFixed(2) },
+        grid: { color: 'rgba(136,135,128,0.15)' },
+        min: 0.7,
+        max: 1.35
+      }
+    }
+  }
+});
+</script>
+<div style="display: flex; gap: 20px; margin-top: 10px; font-size: 12px; color: var(--color-text-secondary);">
+  <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 20px; height: 2px; background: #378ADD; display: inline-block;"></span>Train loss</span>
+  <span style="display: flex; align-items: center; gap: 6px;"><span style="width: 20px; height: 2px; background: #D85A30; display: inline-block; border-top: 2px dashed #D85A30;"></span>Val loss</span>
+</div>
