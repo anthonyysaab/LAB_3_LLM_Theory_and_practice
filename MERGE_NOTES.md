@@ -23,17 +23,21 @@ The following local files were already present in the uploaded repository with m
 - `README.md` as a standard GitHub-rendered README
 - `MERGE_NOTES.md` as this audit trail
 
-## Kept Out Of Git
+## Local-Only Large Files
 
-These local files were not copied into the repository because they are large generated datasets/checkpoints or exceed GitHub's practical file limits:
+These files were copied into the main working folder for local use, but are ignored by Git because they are generated datasets/checkpoints or exceed GitHub's practical file limits:
 
-- `C:\Users\user\LAB3_LLM\checkpoints\char_gpt_checkpoint.pt` - 218.70 MB
-- `C:\Users\user\LAB3_LLM\checkpoints\char_gpt_best.pt` - 218.69 MB
-- `C:\Users\user\LAB3_LLM\checkpoints\char_gpt_french_poetry.pt` - 72.89 MB
-- `C:\Users\user\Python\lab3 Experiment II\corpus_vers.csv` - 122.03 MB
-- `C:\Users\user\Python\lab3 Experiment II\french_poetry_corpus_cleaned.txt` - 58.89 MB
-- `C:\Users\user\Python\lab3 Experiment II\checkpoints\char_gpt_60mb_checkpoint.pt` - 74.29 MB
-- `C:\Users\user\Python\lab3 Experiment II\checkpoints\char_gpt_60mb_best.pt` - 74.29 MB
-- `C:\Users\user\Python\lab3 Experiment II\checkpoints\char_gpt_60mb_final.pt` - 24.76 MB
+- `Useful Files\Chekpoints\char_gpt_checkpoint.pt` - 218.70 MB
+- `Useful Files\Chekpoints\char_gpt_best.pt` - 218.69 MB
+- `Useful Files\Chekpoints\char_gpt_french_poetry.pt` - 72.89 MB
+- `Experiment II\corpus_vers.csv` - 122.03 MB
+- `Experiment II\french_poetry_corpus_cleaned.txt` - 58.89 MB
+- `Experiment II\Checkpoints\char_gpt_60mb_checkpoint.pt` - 74.29 MB
+- `Experiment II\Checkpoints\char_gpt_60mb_best.pt` - 74.29 MB
+- `Experiment II\Checkpoints\char_gpt_60mb_final.pt` - 24.76 MB
 
 For Experiment II data, the repository already includes the Hugging Face dataset link in `Experiment II/Link_to_dataset(60mb)`.
+
+## Archived Old Source Folders
+
+After consolidation, the old duplicate source folders were moved out of the active workspace into `C:\Users\user\_archived_lab3_sources_20260603`.
