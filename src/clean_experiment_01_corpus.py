@@ -1,8 +1,9 @@
 from pathlib import Path
 import re
 
-inp = Path("corpus/french_poetry_corpus.txt")
-out = Path("corpus/french_poetry_corpus_cleaned.txt")
+repo_dir = Path(__file__).resolve().parents[1]
+inp = repo_dir / "data" / "experiment_01" / "french_poetry_corpus.txt"
+out = repo_dir / "data" / "experiment_01" / "french_poetry_corpus_cleaned.txt"
 
 text = inp.read_text(encoding="utf-8")
 text = text.replace("\r\n", "\n").replace("\r", "\n")

@@ -9,9 +9,10 @@ from pathlib import Path
 # PATHS
 # ============================================================
 
-INPUT_FILE = Path(r"C:\Users\user\Python\lab3 Experiment II\corpus_vers.csv")
-OUTPUT_FILE = Path(r"C:\Users\user\Python\lab3 Experiment II\french_poetry_corpus_cleaned.txt")
-BAD_ROWS_FILE = Path(r"C:\Users\user\Python\lab3 Experiment II\bad_rows_log.tsv")
+REPO_DIR = Path(__file__).resolve().parents[1]
+INPUT_FILE = REPO_DIR / "data" / "experiment_02" / "corpus_vers.csv"
+OUTPUT_FILE = REPO_DIR / "data" / "experiment_02" / "french_poetry_corpus_cleaned.txt"
+BAD_ROWS_FILE = REPO_DIR / "data" / "experiment_02" / "bad_rows_log.tsv"
 
 
 # ============================================================

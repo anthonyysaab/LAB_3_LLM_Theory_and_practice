@@ -1,8 +1,7 @@
-# Generated model checkpoints and local datasets
-*.pt
-corpus_vers.csv
-Experiment II/corpus_vers.csv
-Experiment II/french_poetry_corpus_cleaned.txt
+# Generated model checkpoints and local large datasets
+models/
+data/experiment_02/corpus_vers.csv
+data/experiment_02/french_poetry_corpus_cleaned.txt
 
 # Python/cache noise
 __pycache__/

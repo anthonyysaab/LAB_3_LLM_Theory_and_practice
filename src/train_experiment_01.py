@@ -9,27 +9,28 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-# ============================================================
-# BASE OUTPUT FOLDER
-# ============================================================
-base_dir = Path(r"C:\Users\user\Python\lab3 Experiment II")
-artifacts_dir = base_dir / "artifacts"
-checkpoints_dir = base_dir / "checkpoints"
-samples_dir = base_dir / "samples"
+# -----------------------------
+# Project paths
+# -----------------------------
+repo_dir = Path(__file__).resolve().parents[1]
+artifacts_dir = repo_dir / "outputs" / "experiment_01"
+checkpoints_dir = repo_dir / "models" / "experiment_01"
+samples_dir = repo_dir / "outputs" / "experiment_01"
+corpus_dir = repo_dir / "data" / "experiment_01"
 
 artifacts_dir.mkdir(parents=True, exist_ok=True)
 checkpoints_dir.mkdir(parents=True, exist_ok=True)
 samples_dir.mkdir(parents=True, exist_ok=True)
+corpus_dir.mkdir(parents=True, exist_ok=True)
 
-
-# ============================================================
-# CONFIG
-# ============================================================
-batch_size = 16
+# -----------------------------
+# Config
+# -----------------------------
+batch_size = 48
 block_size = 256
-max_iters = 40000
+max_iters = 20000
 eval_interval = 1000
-eval_iters = 32
+eval_iters = 24
 learning_rate = 3e-4
 weight_decay = 0.01
 
@@ -37,19 +38,18 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 use_amp = device == "cuda"
 
 n_embd = 256
-n_head = 8
-n_layer = 8
+n_head = 16
+n_layer = 24
 dropout = 0.1
 
-checkpoint_path = checkpoints_dir / "char_gpt_60mb_checkpoint.pt"
-best_checkpoint_path = checkpoints_dir / "char_gpt_60mb_best.pt"
-final_model_path = checkpoints_dir / "char_gpt_60mb_final.pt"
-samples_path = samples_dir / "training_samples_60mb.txt"
-final_sample_path = samples_dir / "final_sample_60mb.txt"
-training_log_path = artifacts_dir / "training_log_60mb.csv"
-vocab_path = artifacts_dir / "vocab_60mb.pkl"
-
-corpus_path = Path(r"C:\Users\user\Python\lab3 Experiment II\french_poetry_corpus_cleaned.txt")
+checkpoint_path = checkpoints_dir / "char_gpt_checkpoint.pt"
+best_checkpoint_path = checkpoints_dir / "char_gpt_best.pt"
+final_model_path = checkpoints_dir / "char_gpt_french_poetry.pt"
+samples_path = samples_dir / "training_samples.txt"
+final_sample_path = samples_dir / "final_sample.txt"
+training_log_path = artifacts_dir / "training_log.csv"
+vocab_path = artifacts_dir / "vocab.pkl"
+corpus_path = corpus_dir / "french_poetry_corpus_cleaned.txt"
 
 torch.manual_seed(1337)
 if torch.cuda.is_available():
@@ -60,10 +60,9 @@ try:
 except Exception:
     pass
 
-
-# ============================================================
-# LOAD CORPUS
-# ============================================================
+# -----------------------------
+# Load corpus
+# -----------------------------
 if not corpus_path.exists():
     raise FileNotFoundError(f"Corpus file not found: {corpus_path}")
 
@@ -81,14 +80,11 @@ vocab_size = len(chars)
 stoi = {ch: i for i, ch in enumerate(chars)}
 itos = {i: ch for ch, i in stoi.items()}
 
-
 def encode(s: str):
     return [stoi[c] for c in s]
 
-
 def decode(ids):
     return "".join(itos[i] for i in ids)
-
 
 data = torch.tensor(encode(text), dtype=torch.long)
 
@@ -99,19 +95,17 @@ val_data = data[n:]
 with open(vocab_path, "wb") as f:
     pickle.dump({"stoi": stoi, "itos": itos}, f)
 
-print(f"Corpus file: {corpus_path}")
-print(f"Corpus chars: {len(text):,}")
+print(f"Corpus chars: {len(text)}")
 print(f"Vocab size: {vocab_size}")
-print(f"Train size: {len(train_data):,}")
-print(f"Val size: {len(val_data):,}")
+print(f"Train size: {len(train_data)}")
+print(f"Val size: {len(val_data)}")
 print(f"Using device: {device}")
 if torch.cuda.is_available():
     print(f"GPU: {torch.cuda.get_device_name(0)}")
 
-
-# ============================================================
-# DATA LOADER
-# ============================================================
+# -----------------------------
+# Data loader
+# -----------------------------
 def get_batch(split):
     source = train_data if split == "train" else val_data
     ix = torch.randint(len(source) - block_size - 1, (batch_size,))
@@ -119,10 +113,9 @@ def get_batch(split):
     y = torch.stack([source[i + 1:i + block_size + 1] for i in ix])
     return x.to(device), y.to(device)
 
-
-# ============================================================
-# MODEL COMPONENTS
-# ============================================================
+# -----------------------------
+# Model components
+# -----------------------------
 class CausalSelfAttention(nn.Module):
     def __init__(self, n_embd, n_head, dropout):
         super().__init__()
@@ -193,9 +186,9 @@ class CharGPT(nn.Module):
         super().__init__()
         self.token_embedding_table = nn.Embedding(vocab_size, n_embd)
         self.position_embedding_table = nn.Embedding(block_size, n_embd)
-        self.blocks = nn.Sequential(
-            *[Block(n_embd, n_head, dropout) for _ in range(n_layer)]
-        )
+        self.blocks = nn.Sequential(*[
+            Block(n_embd, n_head, dropout) for _ in range(n_layer)
+        ])
         self.ln_f = nn.LayerNorm(n_embd)
         self.lm_head = nn.Linear(n_embd, vocab_size)
 
@@ -212,9 +205,9 @@ class CharGPT(nn.Module):
     def forward(self, idx, targets=None):
         B, T = idx.shape
 
-        tok_emb = self.token_embedding_table(idx)
+        tok_emb = self.token_embedding_table(idx)     # (B, T, C)
         pos = torch.arange(T, device=idx.device)
-        pos_emb = self.position_embedding_table(pos)
+        pos_emb = self.position_embedding_table(pos)  # (T, C)
 
         x = tok_emb + pos_emb
         x = self.blocks(x)
@@ -259,18 +252,15 @@ class CharGPT(nn.Module):
 
         return idx
 
-
-# ============================================================
-# INIT MODEL + OPTIMIZER + SCALER
-# ============================================================
+# -----------------------------
+# Init model + optimizer + scaler
+# -----------------------------
 model = CharGPT().to(device)
-
 optimizer = torch.optim.AdamW(
     model.parameters(),
     lr=learning_rate,
     weight_decay=weight_decay,
 )
-
 scaler = torch.amp.GradScaler("cuda", enabled=use_amp)
 
 n_params = sum(p.numel() for p in model.parameters())
@@ -289,13 +279,11 @@ current_config = {
     "n_layer": n_layer,
     "dropout": dropout,
     "vocab_size": vocab_size,
-    "corpus_path": str(corpus_path),
 }
 
-
-# ============================================================
-# EVALUATION
-# ============================================================
+# -----------------------------
+# Evaluation
+# -----------------------------
 @torch.no_grad()
 def estimate_loss():
     out = {}
@@ -311,10 +299,9 @@ def estimate_loss():
     model.train()
     return out
 
-
-# ============================================================
-# LOGGING HELPERS
-# ============================================================
+# -----------------------------
+# Logging helpers
+# -----------------------------
 def append_log(step, train_loss, val_loss, train_bpc, val_bpc):
     file_exists = training_log_path.exists()
     with open(training_log_path, "a", newline="", encoding="utf-8") as f:
@@ -322,7 +309,6 @@ def append_log(step, train_loss, val_loss, train_bpc, val_bpc):
         if not file_exists:
             writer.writerow(["step", "train_loss", "val_loss", "train_bpc", "val_bpc"])
         writer.writerow([step, train_loss, val_loss, train_bpc, val_bpc])
-
 
 def save_checkpoint(step, best_val_loss=None):
     torch.save(
@@ -337,7 +323,6 @@ def save_checkpoint(step, best_val_loss=None):
         checkpoint_path,
     )
 
-
 def save_best_checkpoint(step, best_val_loss):
     torch.save(
         {
@@ -351,10 +336,9 @@ def save_best_checkpoint(step, best_val_loss):
         best_checkpoint_path,
     )
 
-
-# ============================================================
-# RESUME FROM CHECKPOINT IF IT EXISTS
-# ============================================================
+# -----------------------------
+# Resume from checkpoint if it exists
+# -----------------------------
 start_step = 0
 best_val_loss = float("inf")
 
@@ -365,7 +349,7 @@ if checkpoint_path.exists():
     saved_config = ckpt.get("config", {})
     compatible = True
 
-    important_keys = ["block_size", "n_embd", "n_head", "n_layer", "vocab_size", "corpus_path"]
+    important_keys = ["block_size", "n_embd", "n_head", "n_layer", "vocab_size"]
     for key in important_keys:
         if saved_config.get(key) != current_config.get(key):
             compatible = False
@@ -383,29 +367,28 @@ if checkpoint_path.exists():
 
         start_step = ckpt["step"] + 1
         best_val_loss = ckpt.get("best_val_loss", float("inf"))
+
         print(f"Resuming from step {start_step}")
     else:
-        print("WARNING: checkpoint is incompatible with current run.")
+        print("WARNING: checkpoint architecture/config is incompatible with current run.")
         print("Checkpoint config:", saved_config)
         print("Current config   :", current_config)
-        print("Starting fresh.")
+        print("Starting fresh instead of loading incompatible checkpoint.")
 else:
     print("No checkpoint found. Starting fresh.")
 
-
-# ============================================================
-# SAMPLE PROMPT HELPER
-# ============================================================
-def make_prompt_tensor(prompt="L"):
+# -----------------------------
+# Sample prompt helper
+# -----------------------------
+def make_prompt_tensor(prompt="<POEM="):
     safe_prompt = "".join(ch for ch in prompt if ch in stoi)
     if not safe_prompt:
         safe_prompt = text[:1]
     return torch.tensor([encode(safe_prompt)], dtype=torch.long, device=device), safe_prompt
 
-
-# ============================================================
-# TRAINING LOOP
-# ============================================================
+# -----------------------------
+# Training loop
+# -----------------------------
 model.train()
 t0 = time.time()
 
@@ -417,13 +400,11 @@ for step in range(start_step, max_iters):
 
         print(
             f"step {step:5d} | "
-            f"train loss {losses['train']:.4f} | "
-            f"val loss {losses['val']:.4f} | "
-            f"train bpc {train_bpc:.4f} | "
-            f"val bpc {val_bpc:.4f}"
+            f"train loss {losses['train']:.4f} | val loss {losses['val']:.4f} | "
+            f"train bpc {train_bpc:.4f} | val bpc {val_bpc:.4f}"
         )
 
-        context, used_prompt = make_prompt_tensor("L")
+        context, used_prompt = make_prompt_tensor("<POEM=")
 
         sample = decode(
             model.generate(
@@ -473,14 +454,13 @@ for step in range(start_step, max_iters):
     scaler.step(optimizer)
     scaler.update()
 
-
-# ============================================================
-# SAVE FINAL MODEL + FINAL SAMPLE
-# ============================================================
+# -----------------------------
+# Save final model + final sample
+# -----------------------------
 save_checkpoint(max_iters - 1, best_val_loss=best_val_loss)
 torch.save(model.state_dict(), final_model_path)
 
-context, used_prompt = make_prompt_tensor("L")
+context, used_prompt = make_prompt_tensor("<POEM=")
 final_sample = decode(
     model.generate(
         context,
