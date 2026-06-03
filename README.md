@@ -15,16 +15,16 @@ Both models are implemented in PyTorch and use character-level tokenization, cau
 
 ```text
 .
-├── data/
-│   ├── experiment_01/        # Tracked first corpus and cleaning notes
-│   └── experiment_02/        # Dataset link, bad-row log, local ignored large corpus files
-├── docs/                     # Original notes and run logs
-├── outputs/
-│   ├── experiment_01/        # Tracked logs, vocab, samples, and loss plot
-│   └── experiment_02/        # Tracked logs, vocab, and samples
-├── reports/                  # Assignment and final report PDFs
-├── src/                      # Training and preprocessing scripts
-└── models/                   # Local-only checkpoints, ignored by Git
+|-- data/
+|   |-- experiment_01/        # Tracked first corpus and cleaning notes
+|   `-- experiment_02/        # Dataset link, bad-row log, local ignored large corpus files
+|-- docs/                     # Original notes and run logs
+|-- outputs/
+|   |-- experiment_01/        # Tracked logs, vocab, samples, and loss plot
+|   `-- experiment_02/        # Tracked logs, vocab, and samples
+|-- reports/                  # Assignment and final report PDFs
+|-- src/                      # Training and preprocessing scripts
+`-- models/                   # Local-only checkpoints, ignored by Git
 ```
 
 ## Setup
